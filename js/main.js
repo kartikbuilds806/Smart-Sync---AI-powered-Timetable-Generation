@@ -12,6 +12,15 @@ window.loadView = async function(viewName, clickedElement = null) {
     return;
   }
 
+  // Auto close sidebar drawer on mobile/tablet screen view switch
+  if (window.innerWidth < 992) {
+    const sidebar = document.querySelector('.app-sidebar');
+    const backdrop = document.getElementById('sidebar-backdrop');
+    if (sidebar) sidebar.classList.remove('show');
+    if (backdrop) backdrop.classList.remove('show');
+    document.body.classList.remove('drawer-open');
+  }
+
   // Update Sidebar active styling
   document.querySelectorAll('#sidebar-nav-list .nav-item').forEach(el => el.classList.remove('active'));
   if (clickedElement && clickedElement.classList) {

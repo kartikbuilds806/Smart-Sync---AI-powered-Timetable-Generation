@@ -72,3 +72,15 @@ d:\Timewise - pbl\
 - **Faculty Roster**: 38 Unique Faculty Members
 - **Rooms & Facilities**: 33 Rooms (21 Lecture Halls & 12 Computer Labs)
 - **Master Timetable Status**: Honest Empty State (Pending Phase 4/5 backend engine generation)
+
+---
+
+## 📱 Responsive Design & Breakpoints
+
+SmartSync is fully responsive across desktop, tablet, and mobile devices without altering desktop layouts:
+
+- **Desktop (1280px+)**: 260px fixed sidebar, 4-column metric cards grid, full topbar search & actions.
+- **Tablets (768px - 1024px)**: 2-column metrics grid, topbar hamburger toggle button, off-canvas drawer navigation.
+- **Normal Mobile Phones (390px - 430px)**: Slide-in mobile drawer with dark backdrop overlay, auto-closing on link tap, 2-column stat cards, full-width inputs with 44px touch targets.
+- **Small Mobile Phones (360px and below)**: Responsive typography with CSS `clamp()`, 1-column card fallback, horizontal scrolling inside `.table-responsive` containers.
+

@@ -23,6 +23,7 @@
   <link rel="stylesheet" href="css/layout.css">
   <link rel="stylesheet" href="css/components.css">
   <link rel="stylesheet" href="css/pages.css">
+  <link rel="stylesheet" href="css/responsive.css">
 </head>
 <body>
 
@@ -31,7 +32,7 @@
     <!-- Mobile Header -->
     <header class="mobile-header">
       <div class="d-flex align-items-center gap-2">
-        <button id="sidebar-toggle-btn" class="btn text-white p-0" aria-label="Toggle Sidebar">
+        <button id="sidebar-toggle-btn" class="btn text-white p-0" aria-label="Toggle Sidebar Navigation">
           <i data-lucide="menu"></i>
         </button>
         <div class="brand-logo" style="width: 30px; height: 30px;">
@@ -52,6 +53,9 @@
           <h2>SmartSync</h2>
           <span>College Timetable</span>
         </div>
+        <button id="sidebar-close-btn" class="sidebar-close-btn" aria-label="Close Navigation Sidebar">
+          <i data-lucide="x"></i>
+        </button>
       </div>
 
       <nav class="sidebar-nav" id="sidebar-nav-list">
@@ -70,9 +74,15 @@
 
       <!-- Topbar Header -->
       <header class="app-topbar">
-        <div class="topbar-search">
-          <i data-lucide="search" class="search-icon"></i>
-          <input type="text" placeholder="Search classes, subjects, rooms..." aria-label="Search">
+        <div class="d-flex align-items-center gap-2">
+          <button id="topbar-sidebar-toggle-btn" class="topbar-hamburger-btn" aria-label="Toggle Menu Drawer">
+            <i data-lucide="menu" style="width: 22px; height: 22px;"></i>
+          </button>
+          
+          <div class="topbar-search">
+            <i data-lucide="search" class="search-icon"></i>
+            <input type="text" placeholder="Search classes, subjects, rooms..." aria-label="Search">
+          </div>
         </div>
 
         <div class="topbar-right">
@@ -88,7 +98,7 @@
 
           <!-- Login Page Shortcut -->
           <a href="pages/login.html" class="btn-smart btn-smart-outline d-none d-md-inline-flex" style="padding: 0.4rem 0.85rem; font-size: 0.8rem;">
-            <i data-lucide="log-in" style="width: 14px; height: 14px;"></i> Demo Login
+            <i data-lucide="log-in" style="width: 14px; height: 14px;"></i> Demo Login (temporary)
           </a>
 
           <!-- Notification Bell -->

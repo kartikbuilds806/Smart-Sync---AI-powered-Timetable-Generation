@@ -300,6 +300,9 @@
 }
 
 @media (max-width: 991.98px) {
+  .mobile-header {
+    display: flex;
+  }
   .app-sidebar {
     position: fixed;
     top: 0;

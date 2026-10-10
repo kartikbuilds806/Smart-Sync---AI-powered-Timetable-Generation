@@ -32,7 +32,7 @@ window.SmartViews = {
     // Dynamic Calculated Stats Cards
     let metricsHTML = `
       <div class="row g-3 mb-4">
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card" onclick="window.loadView('courses')" style="cursor: pointer;">
             <div class="stat-icon blue"><i data-lucide="book-open"></i></div>
             <div class="stat-details">
@@ -42,7 +42,7 @@ window.SmartViews = {
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card" onclick="window.loadView('sections')" style="cursor: pointer;">
             <div class="stat-icon purple"><i data-lucide="users"></i></div>
             <div class="stat-details">
@@ -52,7 +52,7 @@ window.SmartViews = {
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card" onclick="window.loadView('teachers')" style="cursor: pointer;">
             <div class="stat-icon green"><i data-lucide="graduation-cap"></i></div>
             <div class="stat-details">
@@ -62,7 +62,7 @@ window.SmartViews = {
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card" onclick="window.loadView('rooms')" style="cursor: pointer;">
             <div class="stat-icon orange"><i data-lucide="building-2"></i></div>
             <div class="stat-details">
@@ -787,7 +787,7 @@ window.SmartViews = {
       </div>
 
       <div class="row g-3 mb-4">
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card">
             <div class="stat-icon blue"><i data-lucide="book-open"></i></div>
             <div class="stat-details">
@@ -797,7 +797,7 @@ window.SmartViews = {
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card">
             <div class="stat-icon purple"><i data-lucide="clock"></i></div>
             <div class="stat-details">
@@ -807,7 +807,7 @@ window.SmartViews = {
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card">
             <div class="stat-icon green"><i data-lucide="users"></i></div>
             <div class="stat-details">
@@ -817,7 +817,7 @@ window.SmartViews = {
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card">
             <div class="stat-icon orange"><i data-lucide="graduation-cap"></i></div>
             <div class="stat-details">
@@ -957,7 +957,7 @@ window.SmartViews = {
       </div>
 
       <div class="row g-3 mb-4">
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card">
             <div class="stat-icon blue"><i data-lucide="id-card"></i></div>
             <div class="stat-details">
@@ -967,7 +967,7 @@ window.SmartViews = {
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card">
             <div class="stat-icon purple"><i data-lucide="book-open"></i></div>
             <div class="stat-details">
@@ -977,7 +977,7 @@ window.SmartViews = {
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card">
             <div class="stat-icon green"><i data-lucide="users"></i></div>
             <div class="stat-details">
@@ -987,7 +987,7 @@ window.SmartViews = {
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-sm-6 col-xl-3">
           <div class="stat-card">
             <div class="stat-icon orange"><i data-lucide="building-2"></i></div>
             <div class="stat-details">

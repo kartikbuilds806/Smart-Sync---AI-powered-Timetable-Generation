@@ -29,20 +29,6 @@
 
   <div class="app-container">
 
-    <!-- Mobile Header -->
-    <header class="mobile-header">
-      <div class="d-flex align-items-center gap-2">
-        <button id="sidebar-toggle-btn" class="btn text-white p-0" aria-label="Toggle Sidebar Navigation">
-          <i data-lucide="menu"></i>
-        </button>
-        <div class="brand-logo" style="width: 30px; height: 30px;">
-          <i data-lucide="graduation-cap" style="width: 18px; height: 18px;"></i>
-        </div>
-        <strong class="text-white">SmartSync</strong>
-      </div>
-      <a href="pages/login.html" class="btn btn-sm btn-light font-weight-bold">Demo Login</a>
-    </header>
-
     <!-- Sidebar Navigation Shell -->
     <aside class="app-sidebar">
       <div class="sidebar-header">
@@ -75,31 +61,26 @@
       <!-- Topbar Header -->
       <header class="app-topbar">
         <div class="d-flex align-items-center gap-2">
+          <!-- Mobile Hamburger Toggle Button -->
           <button id="topbar-sidebar-toggle-btn" class="topbar-hamburger-btn" aria-label="Toggle Menu Drawer">
             <i data-lucide="menu" style="width: 22px; height: 22px;"></i>
           </button>
           
-          <div class="topbar-search">
+          <div class="topbar-search d-none d-lg-block">
             <i data-lucide="search" class="search-icon"></i>
             <input type="text" placeholder="Search classes, subjects, rooms..." aria-label="Search">
           </div>
         </div>
 
-        <div class="topbar-right">
+        <div class="topbar-right d-flex align-items-center gap-2 ms-auto">
           <!-- Demo Role Switcher -->
           <div class="d-flex align-items-center gap-2">
-            <span class="text-muted small d-none d-md-inline" style="font-size: 0.775rem;">Switch Role:</span>
             <select id="global-role-switcher" class="role-switcher-select" aria-label="Select Role Profile">
               <option value="admin">Admin Coordinator</option>
               <option value="teacher">Faculty / Teacher</option>
               <option value="student">Student</option>
             </select>
           </div>
-
-          <!-- Login Page Shortcut -->
-          <a href="pages/login.html" class="btn-smart btn-smart-outline d-none d-md-inline-flex" style="padding: 0.4rem 0.85rem; font-size: 0.8rem;">
-            <i data-lucide="log-in" style="width: 14px; height: 14px;"></i> Demo Login (temporary)
-          </a>
 
           <!-- Notification Bell -->
           <button class="topbar-icon-btn" aria-label="Notifications" title="View Notifications">
@@ -110,7 +91,7 @@
           <!-- User Profile Pill -->
           <div class="user-profile-pill">
             <div class="user-avatar" id="topbar-user-avatar">A</div>
-            <div class="user-info d-none d-sm-flex">
+            <div class="user-info d-none d-xl-flex">
               <span class="user-name" id="topbar-user-name">Admin Coordinator</span>
               <span class="user-role" id="topbar-user-role">Academic Affairs</span>
             </div>
@@ -124,22 +105,6 @@
       </div>
 
     </main>
-
-    <!-- Mobile Bottom Navigation Bar -->
-    <nav class="mobile-bottom-nav">
-      <a href="#" onclick="loadView('dashboard'); return false;" class="text-primary d-flex flex-column align-items-center" style="font-size: 0.7rem;">
-        <i data-lucide="home" style="width: 20px; height: 20px;"></i> Home
-      </a>
-      <a href="#" onclick="loadView('my-timetable'); return false;" class="text-muted d-flex flex-column align-items-center" style="font-size: 0.7rem;">
-        <i data-lucide="calendar" style="width: 20px; height: 20px;"></i> Timetable
-      </a>
-      <a href="#" onclick="loadView('profile'); return false;" class="text-muted d-flex flex-column align-items-center" style="font-size: 0.7rem;">
-        <i data-lucide="user" style="width: 20px; height: 20px;"></i> Profile
-      </a>
-      <a href="pages/login.html" class="text-muted d-flex flex-column align-items-center" style="font-size: 0.7rem;">
-        <i data-lucide="log-in" style="width: 20px; height: 20px;"></i> Login
-      </a>
-    </nav>
 
   </div>
 

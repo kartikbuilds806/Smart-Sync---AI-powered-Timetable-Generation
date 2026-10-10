@@ -1,0 +1,6 @@
+[
+  { "id": "CRS-BCA", "code": "BCA", "name": "Bachelor of Computer Applications", "degree": "Undergraduate", "durationYears": 3, "totalSections": 31, "description": "3-Year undergraduate program focusing on computer science, programming, software engineering, AI/DS, and Cyber Security." },
+  { "id": "CRS-MCA", "code": "MCA", "name": "Master of Computer Applications", "degree": "Postgraduate", "durationYears": 2, "totalSections": 9, "description": "2-Year postgraduate program specializing in advanced software development, AI/ML, Cloud Computing, and Full-Stack Engineering." },
+  { "id": "CRS-BSCIT", "code": "BSc(IT)", "name": "Bachelor of Science in Information Technology", "degree": "Undergraduate", "durationYears": 3, "totalSections": 2, "description": "3-Year undergraduate program covering IT infrastructure, networking, and system administration." },
+  { "id": "CRS-BSCCS", "code": "BSc(CS)", "name": "Bachelor of Science in Computer Science", "degree": "Undergraduate", "durationYears": 3, "totalSections": 2, "description": "3-Year undergraduate program focusing on core computer science theory, algorithms, and computational mathematics." }
+]

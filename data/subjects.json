@@ -1,0 +1,28 @@
+[
+  { "id": "SUB-TBC101", "code": "TBC101", "name": "Computational Thinking & Fundamentals of IT", "course": "BCA", "type": "Theory", "classesPerWeek": 4, "department": "Computer Applications" },
+  { "id": "SUB-TBC102", "code": "TBC102", "name": "Foundations of Computer Programming", "course": "BCA", "type": "Theory", "classesPerWeek": 4, "department": "Computer Applications" },
+  { "id": "SUB-TBC103", "code": "TBC103", "name": "Mathematical Foundation of Computer Science", "course": "BCA", "type": "Theory", "classesPerWeek": 3, "department": "Mathematics / CS" },
+  { "id": "SUB-TBC104", "code": "TBC104", "name": "Professional English Skills", "course": "BCA", "type": "Theory", "classesPerWeek": 3, "department": "English & Humanities" },
+  { "id": "SUB-BBC111", "code": "BBC111", "name": "Basic Mathematics - I", "course": "BCA", "type": "Theory", "classesPerWeek": 3, "department": "Mathematics" },
+  { "id": "SUB-PBC101", "code": "PBC101", "name": "Digital Productivity Tools Laboratory", "course": "BCA", "type": "Lab", "classesPerWeek": 2, "department": "Computer Applications" },
+  { "id": "SUB-PBC102", "code": "PBC102", "name": "Computer Programming Laboratory", "course": "BCA", "type": "Lab", "classesPerWeek": 2, "department": "Computer Applications" },
+
+  { "id": "SUB-TMC301", "code": "TMC301", "name": "Design & Analysis of Algorithms", "course": "MCA", "type": "Theory", "classesPerWeek": 4, "department": "Computer Applications" },
+  { "id": "SUB-TMC302", "code": "TMC302", "name": "Mobile Application Development", "course": "MCA", "type": "Theory", "classesPerWeek": 4, "department": "Computer Applications" },
+  { "id": "SUB-TMC303", "code": "TMC303", "name": "Advanced Java Programming", "course": "MCA", "type": "Theory", "classesPerWeek": 4, "department": "Computer Applications" },
+  { "id": "SUB-TMC311", "code": "TMC311", "name": "Machine Learning - II", "course": "MCA", "type": "Theory", "classesPerWeek": 3, "department": "AI & Data Science" },
+  { "id": "SUB-TMC312", "code": "TMC312", "name": "DevOps on Cloud", "course": "MCA", "type": "Theory", "classesPerWeek": 3, "department": "Computer Applications" },
+  { "id": "SUB-TMD301", "code": "TMD301", "name": "Data Analytics & Visualization", "course": "MCA", "type": "Theory", "classesPerWeek": 4, "department": "AI & Data Science" },
+  { "id": "SUB-PMC301", "code": "PMC301", "name": "DAA Laboratory", "course": "MCA", "type": "Lab", "classesPerWeek": 2, "department": "Computer Applications" },
+  { "id": "SUB-PMC302", "code": "PMC302", "name": "MAD Laboratory", "course": "MCA", "type": "Lab", "classesPerWeek": 2, "department": "Computer Applications" },
+  { "id": "SUB-PMC303", "code": "PMC303", "name": "Advanced Java Laboratory", "course": "MCA", "type": "Lab", "classesPerWeek": 2, "department": "Computer Applications" },
+
+  { "id": "SUB-TMC101", "code": "TMC101", "name": "Full Stack Development", "course": "MCA", "type": "Theory", "classesPerWeek": 4, "department": "Computer Applications" },
+  { "id": "SUB-TMC102", "code": "TMC102", "name": "Operating Systems", "course": "MCA", "type": "Theory", "classesPerWeek": 4, "department": "Computer Applications" },
+  { "id": "SUB-TMC103", "code": "TMC103", "name": "Computer Networks", "course": "MCA", "type": "Theory", "classesPerWeek": 4, "department": "Computer Applications" },
+  { "id": "SUB-TMC104", "code": "TMC104", "name": "Software Engineering", "course": "MCA", "type": "Theory", "classesPerWeek": 3, "department": "Computer Applications" },
+  { "id": "SUB-TMC105", "code": "TMC105", "name": "Data Structures", "course": "MCA", "type": "Theory", "classesPerWeek": 4, "department": "Computer Applications" },
+  { "id": "SUB-PMC101", "code": "PMC101", "name": "Full Stack Laboratory", "course": "MCA", "type": "Lab", "classesPerWeek": 2, "department": "Computer Applications" },
+  { "id": "SUB-PMC102", "code": "PMC102", "name": "Data Structures Laboratory", "course": "MCA", "type": "Lab", "classesPerWeek": 2, "department": "Computer Applications" },
+  { "id": "SUB-PMC103", "code": "PMC103", "name": "Operating Systems Laboratory", "course": "MCA", "type": "Lab", "classesPerWeek": 2, "department": "Computer Applications" }
+]

@@ -1,0 +1,8 @@
+[
+  { "id": "STD-001", "studentId": "20261001", "name": "Kartik Sharma", "rollNo": "26BCA001", "course": "BCA", "section": "BCA III G1", "semester": "Semester 3", "email": "kartik.20261001@gehu.ac.in", "status": "Active" },
+  { "id": "STD-002", "studentId": "20261002", "name": "Ananya Roy", "rollNo": "26BCA002", "course": "BCA", "section": "BCA III G2", "semester": "Semester 3", "email": "ananya.20261002@gehu.ac.in", "status": "Active" },
+  { "id": "STD-003", "studentId": "20261003", "name": "Rahul Verma", "rollNo": "26BCA003", "course": "BCA", "section": "BCA I G1", "semester": "Semester 1", "email": "rahul.20261003@gehu.ac.in", "status": "Active" },
+  { "id": "STD-004", "studentId": "20261004", "name": "Sneha Kapoor", "rollNo": "26BCA004", "course": "BCA", "section": "BCA I G2", "semester": "Semester 1", "email": "sneha.20261004@gehu.ac.in", "status": "Active" },
+  { "id": "STD-005", "studentId": "20261005", "name": "Rohan Joshi", "rollNo": "26MCA001", "course": "MCA", "section": "MCA IIIrd SEC G1", "semester": "Semester 3", "email": "rohan.20261005@gehu.ac.in", "status": "Active" },
+  { "id": "STD-006", "studentId": "20261006", "name": "Pooja Bisht", "rollNo": "26MCA002", "course": "MCA", "section": "MCA IIIrd SEC G2", "semester": "Semester 3", "email": "pooja.20261006@gehu.ac.in", "status": "Active" }
+]

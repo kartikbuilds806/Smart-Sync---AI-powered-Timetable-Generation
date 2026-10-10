@@ -1,0 +1,6036 @@
+=== PDF: Bca timetable\UG_I.pdf ===
+--- Page 1 ---
+ 
+BCA I SEC ‘G1’ NCR1 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY TBC103 TBC101 PBC102 LAB3       
+TUESDAY TBC102 
+ 
+TBC101 TBC103 
+CR4 
+LIB PBC101 DL2     
+WEDNESDAY GEN. 
+Elective 
+CR4 
+TBC104 
+CR4 
+TBC102 
+NCR3 
+BBC111 
+NCR3 
+      
+THURSDAY LIB TBC102 
+CR4 
+GEN. 
+Elective 
+CR4 
+       
+FRIDAY TBC101 
+CR4 
+TBC104 
+CR4 
+TBC103 
+CR4 
+GEN. 
+Elective 
+BBC111 
+NCR2 
+     
+SATURDAY          
+Subject Code Subject Name Faculty 
+TBC101 Computational Thinking and 
+Fundamentals of IT  Mrs. Geetika Sharma 
+TBC102 Foundations of Computer 
+Programming Mr. Abhishek Thapa 
+TBC103 Mathematical Foundation of 
+Computer Science Ms. Ritu Barthwal 
+TBC104 Professional English Skills MR. VIBHAKAR GHOSH 
+GE Startup Financing and Venture 
+Development Ms.  Alisha saleem 
+ University Open Elective / 
+Generic Elective – 1 Open Elective 
+PBC101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Shiwani Bhaskar/ 
+Ms. Shivani Sharma 
+PBC102 Computer Programming Laboratory 
+Mr. Abhishek Thapa/ 
+Mr. Gautam Badoni/ 
+Mr. Amit Vikram 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MS. GEETIKA SHARMA( +91 8171768899 ) 
+  
+
+--- Page 2 ---
+ 
+BCA I SEC ‘G2’ NCR6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY    PBC102 LAB3 TBC102 
+NCR1 
+LIB TBC101 
+NCR5  
+TBC103 
+NCR4 
+TUESDAY       TBC104 
+NCR6 
+LIB GEN. 
+Elective 
+CR5 
+ 
+WEDNESDAY      TBC102 
+NCR2 
+TBC101 
+NCR6 
+ TBC103 
+NCR4 
+THURSDAY      PBC102 
+Comprehensive 
+viva 
+TBC101 
+NCR6 
+TBC103 
+NCR4 
+GEN. 
+Elective 
+NCR4 
+FRIDAY      PBC101 
+Comprehensive viva 
+TBC102 
+NCR6 
+TBC104 
+NCR4 
+GEN. 
+Elective 
+NCR4 
+SATURDAY    PBC 101 CAAD LAB 
+[G1] 
+BBC111 
+NCR4 
+BBC111 
+NCR4 
+PBC 101 CAAD LAB 
+[G2] 
+Subject Code Subject Name Faculty 
+TBC101 Computational Thinking and 
+Fundamentals of IT  Mrs. Geetika Sharma 
+TBC102 Foundations of Computer 
+Programming Mr. Vikas Kumar 
+TBC103 Mathematical Foundation of 
+Computer Science Mr. Abhishek Chauhan 
+TBC104 Professional English Skills MR. VIBHAKAR GHOSH 
+GE Startup Financing and Venture 
+Development Ms.  Avneet 
+ University Open Elective / 
+Generic Elective – 1  
+PBC101 Digital Productivity Tools for 
+Modern Workplaces Laboratory Ms. Shiwani Bhaskar 
+PBC102 Computer Programming Laboratory Mr. Vikas Kumar/ Mr. 
+Viplaw Sinha 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MS. GEETIKA SHARMA ( +91 8171768899) 
+ 
+
+--- Page 3 ---
+ 
+BCA I SEC ‘G3’ NCR1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY  TBC104 
+CR4 
+PBC102  LAB6 [G1]       
+TUESDAY TBC101 
+CR4 
+TBC104 
+CR4 
+ GEN. 
+Elective 
+NCR6 
+GEN. 
+Elective 
+NCR6 
+     
+WEDNESDAY TBC101 TBC102 
+ 
+TBC103 
+NCR5 
+GEN. 
+Elective 
+NCR5 
+PBC101 DL2     
+THURSDAY TBC101 TBC103 
+ 
+TBC102 
+ 
+       
+FRIDAY          
+SATURDAY PBC102  LAB6 
+[G2] 
+TBC103 TBC102 
+NCR1 
+BBC111 
+NCR4 
+BBC111 
+NCR4 
+   
+Subject Code Subject Name Faculty 
+TBC101 Computational Thinking and 
+Fundamentals of IT  Mrs. Geetika Sharma 
+TBC102 Foundations of Computer 
+Programming Mr. Vikas Kumar 
+TBC103 Mathematical Foundation of 
+Computer Science Ms. Ritu Barthwal 
+TBC104 Professional English Skills MR. VIBHAKAR GHOSH 
+GE Startup Financing and Venture 
+Development Ms.  Pooja kannojia 
+ University Open Elective / 
+Generic Elective – 1  
+PBC101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Shruti Bahuguna/ 
+Ms. Shivani Sharma 
+PBC102 Computer Programming Laboratory Mr. Vikas Kumar/ Ms. 
+Shruti Bahuguna 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MS. SHRUTI BAHUGUNA ( +91 8191900644 ) 
+ 
+ 
+
+--- Page 4 ---
+ 
+BCA I SEC ‘G4’ NCR1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY TBC103 
+NCR5 
+GEN. 
+Elective 
+NCR5 
+TBC102 
+ 
+TBC101 PBC101 DL2     
+TUESDAY PBC102 DL2 TBC104 
+ 
+TBC103       
+WEDNESDAY GEN. 
+Elective 
+CR5 
+TBC103 
+CR5 
+TBC102 
+CR5 
+BBC111 
+NCR3 
+      
+THURSDAY TBC104 
+CR4 
+TBC101 
+NCR5 
+LIB       
+FRIDAY TBC102 
+CR5 
+TBC101 
+CR5 
+GEN. 
+Elective 
+NCR3 
+ BBC111 
+NCR2 
+     
+SATURDAY         
+Subject Code Subject Name Faculty 
+TBC101 Computational Thinking and 
+Fundamentals of IT  Mrs. Geetika Sharma 
+TBC102 Foundations of Computer 
+Programming Dr. Ovais Bashir 
+TBC103 Mathematical Foundation of 
+Computer Science Ms. Shikha bhandari 
+TBC104 Professional English Skills MR. VIBHAKAR GHOSH 
+GE Startup Financing and Venture 
+Development Ms. Ruby Bisht 
+ University Open Elective / 
+Generic Elective – 1  
+PBC101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Shruti Bahuguna/ 
+Ms. Shivani Sharma 
+PBC102 Computer Programming Laboratory Dr. Ovais Bashir/ Mr. 
+Krishna Kumar 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+DR. OVAIS BASHIR ( +91 7042670564 ) 
+  
+ 
+
+--- Page 5 ---
+ 
+BCA I SEC ‘A1’ AI/DS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY TBD102 
+LT4 
+LIB GEN. E 
+NCR4 
+TBD103 
+NCR4 
+PBD101 DL1     
+TUESDAY TBD101 
+NCR4 
+TBD103 
+NCR4 
+  PBD 102  
+CAAD LAB [G2] 
+    
+WEDNESDAY PBD 102 
+IBM LAB [G1] 
+GEN. E 
+NCR4 
+TBD104 
+NCR4 
+      
+THURSDAY TBD101 
+NCR4 
+TBD102 
+NCR4 
+LIB TBD103 
+NCR5 
+      
+FRIDAY TBD102 
+NCR3 
+LIB TBD101 
+NCR4 
+TBD104 
+NCR4 
+GEN. E 
+NCR4 
+     
+SATURDAY     BBC111 
+NCR4 
+BBC111 
+NCR4 
+   
+Subject Code Subject Name Faculty 
+TBD101 Computational Thinking and 
+Fundamentals of IT  Ms. Ayushi Rana 
+TBD102 Fundamentals of Python 
+Programming Ms. Afsar Jahan 
+TBD103 Mathematical Foundation for AI Ms. Deepanshi 
+TBD104 Professional English Skills MS. GAURI TAKIYAR 
+GE Startup Financing and Venture 
+Development Ms.  Sangamitra 
+ University Open Elective / 
+Generic Elective – 1 Open Elective 
+PBD101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Ayushi Rana/  Mr. 
+Savarjeet Singh 
+PBD102 Fundamentals of Python 
+Programming Laboratory 
+Ms. Afsar Jahan/ Ms. 
+Shruti Saini 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MS. AFSAR JAHAN ( +91 9027576208 ) 
+ 
+
+--- Page 6 ---
+ 
+BCA I SEC ‘A7’ AI/DS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY LIB TBD102 
+NCR3 
+GEN. E 
+NCR3 
+PBD 102  
+NEW LAB 1  
+    
+TUESDAY  TBD104 
+NCR3 
+TBD103 
+NCR4 
+TBD102 
+NCR4 
+      
+WEDNESDAY    BBC111 
+NCR3 
+      
+THURSDAY GEN. E 
+NCR3 
+TBD103 
+NCR3 
+TBD104 
+NCR3 
+TBD101 
+NCR3 
+      
+FRIDAY  TBD102
+NCR4 
+TBD101 
+LT4 
+GEN. E 
+NCR3 
+BBC111 
+NCR2 
+     
+SATURDAY TBD101 
+CR1 
+TBD103 
+NCR4 
+LIB PBD101 DL2    
+Subject Code Subject Name Faculty 
+TBD101 Computational Thinking and 
+Fundamentals of IT  Ms. Aakriti Singh 
+TBD102 Fundamentals of Python 
+Programming Ms. Afsar Jahan 
+TBD103 Mathematical Foundation for AI Mr. Abhishek Chauhan 
+TBD104 Professional English Skills MS. GAURI TAKIYAR 
+GE Startup Financing and Venture 
+Development Ms.  Sangamitra 
+ University Open Elective / 
+Generic Elective – 1  
+PBD101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Aakriti Singh/  Ms. 
+Shivani Sharma 
+PBD102 Fundamentals of Python 
+Programming Laboratory 
+Ms. Afsar Jahan/ Ms. 
+Shruti Saini 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MS. AAKRITI SINGH( +91 7500220070 ) 
+ 
+
+--- Page 7 ---
+ 
+BCA I SEC ‘A3’ AI/DS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY TBD101 
+CR5 
+TBD102 
+CR5 
+LIB       
+TUESDAY TBD102 
+CR5 
+GEN. EL 
+CR5 
+TBD101 
+NCR5 
+TBD103 
+NCR5 
+TBD104  
+NCR4 
+     
+WEDNESDAY TBD104 
+NCR5 
+TBD103 
+NCR5 
+LIB  TBD101 
+NCR3 
+     
+THURSDAY PBD102 IBM 
+LAB [G1] 
+LIB TBD102 
+NCR1 
+GEN. E 
+NCR1 
+     
+FRIDAY  GEN. EL 
+NCR5 
+TBD103 
+CR5 
+       
+SATURDAY PBD101 NEW LAB 
+1 
+PBD102 IBM LAB 
+[G2] 
+BBC111 
+NCR4 
+BBC111 
+NCR4 
+   
+Subject Code Subject Name Faculty 
+TBD101 Computational Thinking and 
+Fundamentals of IT  Ms. Aakriti Singh 
+TBD102 Fundamentals of Python 
+Programming Ms. Afsar Jahan 
+TBD103 Mathematical Foundation for AI Ms. Anjali 
+TBD104 Professional English Skills MS. GAURI TAKIYAR 
+GE Startup Financing and Venture 
+Development Ms.  Pooja kannojia 
+ University Open Elective / 
+Generic Elective – 1  
+PBD101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Aakriti Singh/ Mr. 
+Abhishek Janoti 
+PBD102 Fundamentals of Python 
+Programming Laboratory 
+Ms. Afsar Jahan/ Mr. 
+Gautam Badoni 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MS. AAKRITI SINGH ( +91 7500220070 ) 
+ 
+
+--- Page 8 ---
+BCA I SEC ‘A4’ AI/DS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY GEN. E.. 
+NCR2  
+TBD101 
+NCR2 
+TBD101 
+NCR2 
+TBD102 
+CR5 
+      
+TUESDAY   TBD104 
+CR5 
+TBD103 
+CR5 
+GEN. E.. 
+CR5 
+TBD101 
+NCR6 
+    
+WEDNESDAY LIB  TBD103 
+CR5 
+TBD104 
+CR5 
+ PBD101 LAB3   
+THURSDAY LIB  TBD103 
+CR5 
+GEN. E.. 
+CR5 
+     
+FRIDAY           
+SATURDAY TBD102 
+CR5 
+TBD102 
+CR5 
+PBD102 NEW LAB1  BBC111 
+NCR4 
+BBC111 
+NCR4 
+   
+Subject Code Subject Name Faculty 
+TBD101 Computational Thinking and 
+Fundamentals of IT  Ms. Shikha Thakur 
+TBD102 Fundamentals of Python 
+Programming Mr. Mohit Amoli 
+TBD103 Mathematical Foundation for AI MS. Arzo  Rani 
+TBD104 Professional English Skills MS. GAURI TAKIYAR 
+GE Startup Financing and Venture 
+Development Ms.  Sangamitra 
+ University Open Elective / 
+Generic Elective – 1  
+PBD101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Shikha Thakur/Ms. 
+Ayushi Rana 
+PBD102 Fundamentals of Python 
+Programming Laboratory 
+Mr. Mohit Amoli/ Ms. 
+Shruti Saini 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MS. AAYUSHI RANA ( +91 7409561192 ) 
+ 
+
+--- Page 9 ---
+ 
+BCA I SEC ‘A5’ AI/DS NCR1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY PBD 102  
+LAB 6 [G2] 
+TBD102 
+CR4 
+GEN. 
+Elective 
+CR1 
+     
+TUESDAY          
+WEDNESDAY TBD103 
+NCR4 
+LIB TBD102 TBD104 
+CR4 
+  PBD101 IBM 
+LAB [G1] 
+  
+THURSDAY GEN. 
+Elective 
+NCR5 
+LIB TBD102 
+NCR5 
+TBD101 
+NCR2 
+  PBD101 IBM 
+LAB [G2] 
+  
+FRIDAY TBD103 
+NCR1 
+GEN. 
+Elective 
+CR1 
+TBD101 TBD104 
+NCR2 
+PBD 102  
+IBM LAB [G1] 
+    
+SATURDAY LIB TBD103 
+NCR5 
+TBD101 
+CR4 
+BBC111 
+NCR4 
+BBC111 
+NCR4 
+   
+Subject Code Subject Name Faculty 
+TBD101 Computational Thinking and 
+Fundamentals of IT  Ms. Ayushi Dwivedi 
+TBD102 Fundamentals of Python 
+Programming Ms. Aakriti Singh 
+TBD103 Mathematical Foundation for AI Ms. Anjali 
+TBD104 Professional English Skills MS. GAURI TAKIYAR 
+GE Startup Financing and Venture 
+Development Ms. Ruby Bisht 
+ University Open Elective / 
+Generic Elective – 1  
+PBD101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Ayushi Dwivedi/Ms. 
+Ayushi Rana 
+PBD102 Fundamentals of Python 
+Programming Laboratory 
+Ms. Aakriti Singh/ Mr. 
+Abishek Singh Janoti 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MS. AYUSHI DWIVEDI ( +91 6265771691 ) 
+ 
+
+--- Page 10 ---
+ 
+BCA I SEC ‘A6’ AI/DS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY           
+TUESDAY TBD102 
+NCR6 
+TBD103 
+NCR6 
+PBD102 LAB3       
+WEDNESDAY LIB TBD101 
+NCR6 
+BBC111 
+NCR3 
+GEN. 
+Elective 
+NCR1 
+     
+THURSDAY TBD101 
+NCR6 
+GEN. 
+Elective 
+NCR6 
+TBD102 
+NCR6 
+TBD104 
+NCR6 
+      
+FRIDAY GEN. 
+Elective 
+NCR6 
+TBD102 
+NCR6 
+TBD104 
+NCR6 
+TBD103 
+LT4 
+BBC111 
+NCR2 
+     
+SATURDAY TBD103 
+NCR6 
+LIB TBD101  
+NCR6 
+ PBD101 NEW LAB 1    
+Subject Code Subject Name Faculty 
+TBD101 Computational Thinking and 
+Fundamentals of IT  Ms. Ayushi Dwivedi 
+TBD102 Fundamentals of Python 
+Programming Dr. Ovais Bashir 
+TBD103 Mathematical Foundation for AI Ms. Anjali 
+TBD104 Professional English Skills MS. GAURI TAKIYAR 
+GE Startup Financing and Venture 
+Development Ms.  Sangamitra 
+ University Open Elective / 
+Generic Elective – 1  
+PBD101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Ayushi Dwivedi/Ms. 
+Ayushi Rana 
+PBD102 Fundamentals of Python 
+Programming Laboratory 
+Dr. Ovais Bashir/ Mr. 
+Prajjwal Kumar 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+DR. OVAIS BASHIR ( +91 7042670564) 
+ 
+
+--- Page 11 ---
+ 
+ 
+ 
+ 
+BCA I SEC ‘A2’ AI/DS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY      PBD 102  
+IBM LAB [G1] 
+TBD103 
+NCR6 
+ 
+TUESDAY      TBD104 
+NCR3 
+TBD104 
+NCR3  
+TBD103 
+NCR5 
+GEN. 
+Elective 
+NCR2 
+ 
+WEDNESDAY        GEN. 
+Elective 
+NCR5 
+TBD102 
+NCR5 
+TBD101 
+NCR1  
+THURSDAY        TBD103 
+NCR4 
+TBD102 
+NCR5 
+TBD101 
+NCR1  
+FRIDAY     PBD 102 
+CAAD LAB [G2] 
+GEN. 
+Elective 
+NCR5  
+LIB TBD102 
+NCR5 
+TBD101 
+NCR1  
+SATURDAY    PBD101 LAB 1 BBC111 
+NCR4 
+BBC111 
+NCR4 
+ 
+Subject Code Subject Name Faculty 
+TBD101 Computational Thinking and 
+Fundamentals of IT  Ms. Aakriti Singh 
+TBD102 Fundamentals of Python 
+Programming Mr. Anuj Rawat 
+TBD103 Mathematical Foundation for AI Ms. Deepanshi 
+TBD104 Professional English Skills MS. GAURI TAKIYAR 
+GE Startup Financing and Venture 
+Development Ms.  Tanya 
+ University Open Elective / 
+Generic Elective – 1  
+PBD101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Aakriti Singh/ Ms. 
+Shruti Bahuguna 
+PBD102 Fundamentals of Python 
+Programming Laboratory 
+Mr. Anuj Rawat/ Ms. 
+Saba Ali 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MR. ANUJ RAWAT ( +91 9634248273 ) 
+ 
+
+--- Page 12 ---
+ 
+ 
+ 
+ 
+BCA I SEC ‘A8’ AI/DS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY    TBD102 
+NCR6 
+TBD103 
+NCR6 
+LIB    
+TUESDAY     TBD102 
+NCR5 
+TBD104 
+NCR3 
+TBD104 
+NCR3  
+TBD103 
+NCR6 
+PBD101 NEW LAB 1 
+WEDNESDAY     TBD102 
+NCR5 
+GEN. 
+Elective 
+NCR6 
+TBD101 
+NCR6 
+ PBD102 AB GF 
+THURSDAY     TBD103 
+NCR5 
+TBD101 
+NCR5  
+GEN. 
+Elective 
+NCR6 
+PBD101 
+Comprehensive viva 
+ 
+FRIDAY     LIB GEN. 
+Elective 
+NCR6 
+TBD101 
+NCR6 
+PBD102 
+Comprehensive viva 
+ 
+SATURDAY     BBC111 
+NCR4 
+BBC111 
+NCR4 
+ 
+Subject Code Subject Name Faculty 
+TBD101 Computational Thinking and 
+Fundamentals of IT  Ms. Ayushi Dwivedi 
+TBD102 Fundamentals of Python 
+Programming Mr. Anuj Rawat 
+TBD103 Mathematical Foundation for AI Ms. Shikha Bhandari 
+TBD104 Professional English Skills MS. GAURI TAKIYAR 
+GE Startup Financing and Venture 
+Development Ms. Ayushi  
+ University Open Elective / 
+Generic Elective – 1  
+PBD101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Ayushi Dwivedi/ 
+Ms. Ayushi Rana 
+PBD102 Fundamentals of Python 
+Programming Laboratory 
+Mr. Anuj Rawat/ Ms. 
+Shiwani Bhaskar 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MR. ANUJ RAWAT ( +91 9634248273 ) 
+ 
+
+--- Page 13 ---
+ 
+BCA I SEC ‘A9’ AI/DS 
+  
+Subject Code Subject Name Faculty 
+TBD101 Computational Thinking and 
+Fundamentals of IT  Ms. Payal Karki 
+TBD102 Fundamentals of Python 
+Programming Mr. Anuj Rawat 
+TBD103 Mathematical Foundation for AI Mr. Abhishek Chauhan 
+TBD104 Professional English Skills MR. VIBHAKAR GHOSH 
+GE Startup Financing and Venture 
+Development Ms.  Sangamitra 
+ University Open Elective / 
+Generic Elective – 1  
+PBD101 Digital Productivity Tools for 
+Modern Workplaces Laboratory 
+Ms. Payal Karki/ Ms. 
+Shivani Sharma 
+PBD102 Fundamentals of Python 
+Programming Laboratory 
+Mr. Anuj Rawat/ Ms. 
+Shiwani Bhaskar 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY  TBD102 
+NCR6 
+TBD103 
+NCR6 
+GEN. E 
+NCR3 
+PBD101 LAB6  [G2]     
+TUESDAY TBD103 
+NCR6 
+LIB TBD101 
+NCR6 
+       
+WEDNESDAY  TBD102 
+NCR6 
+ BBC111 
+NCR3 
+TBD104 
+NCR6 
+     
+THURSDAY GEN. E 
+NCR3 
+  TBD102 
+CR4 
+PBD 102  
+NEW LAB 1  
+    
+FRIDAY PBD101 IMB 
+LAB [G1] 
+TBD104 
+LT3 
+GEN. E 
+NCR3 
+BBC111 
+NCR2 
+     
+SATURDAY TBD103  
+NCR1 
+LIB TBD101 
+NCR4 
+TBD101 
+NCR4 
+    
+MS. PAYAL KARKI( +91 9193114289 ) 
+ 
+
+--- Page 14 ---
+ 
+BCA I SEC ‘C1’ CYBER  NCR2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY          
+TUESDAY TBL103 TBL101 TBL102 
+NCR3 
+       
+WEDNESDAY TBL101 TBL103 TBL104 BBC111 
+NCR3 
+PBL101 LAB3     
+THURSDAY TBL102 TBL104 
+NCR2 
+GEN. 
+Elective 
+NCR2 
+       
+FRIDAY GEN. 
+Elective 
+TBL103  TBL101 
+NCR5 
+BBC111 
+NCR2 
+     
+SATURDAY LIB TBL102 GEN. 
+Elective 
+NCR2 
+PBL102 LAB2    
+Subject Code Subject Name Faculty 
+TBL101 Computational Thinking and 
+Fundamentals of IT  (Mr. Kuldeep Nautiyal) 
+TBL102 Fundamentals of Python 
+Programming Mr. Abhishek Thapa 
+TBL103 Mathematical Foundation of 
+Computer Science Ms. Ritu Barthwal 
+TBL104 Professional English Skills MR. VIBHAKAR GHOSH 
+GE Startup Financing and Venture 
+Development Ms. Ruby Bisht 
+ University Open Elective / 
+Generic Elective – 1 Open Elective 
+PBL101 Digital Productivity Tools for 
+Moden Workplaces Laboratory 
+Ms. Shiwani Bhaskar/ 
+Ms. Ayushi Rana 
+PBL102 Python Programming 
+Laboratory 
+Mr. Abhishek Thapa/ 
+Mr. Krishna Kumar 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MS. SHIWANI BHASKAR ( +91 8445159744 ) 
+ 
+
+--- Page 15 ---
+ 
+BCA I SEC ‘C2’ CYBER  NCR2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY          
+TUESDAY TBL103 TBL101 TBL102 
+NCR3 
+       
+WEDNESDAY TBL101 TBL103 TBL104        
+THURSDAY TBL102 TBL104 
+NCR2 
+GEN. 
+Elective 
+NCR2 
+ PBL 102  
+LAB 7 
+    
+FRIDAY GEN. 
+Elective 
+TBL103  TBL101 
+NCR5 
+      
+SATURDAY LIB TBL102 GEN. 
+Elective 
+NCR2 
+BBC111 
+NCR4 
+BBC111 
+NCR4 
+PBL 101 LAB7  
+Subject Code Subject Name Faculty 
+TBL101 Computational Thinking and 
+Fundamentals of IT  (Mr. Kuldeep Nautiyal) 
+TBL102 Fundamentals of Python 
+Programming Mr. Abhishek Thapa 
+TBL103 Mathematical Foundation of 
+Computer Science Ms. Ritu Barthwal 
+TBL104 Professional English Skills MR. VIBHAKAR GHOSH 
+GE Startup Financing and Venture 
+Development Ms. Ruby Bisht 
+ University Open Elective / 
+Generic Elective – 1 Open Elective 
+PBL101 Digital Productivity Tools for 
+Moden Workplaces Laboratory Ms. Shiwani Bhaskar 
+PBL102 Python Programming 
+Laboratory 
+Mr. Abhishek Thapa/ 
+Mr. Gautam Badoni 
+BBC111 Basic Mathematics -I Ms. Anukriti 
+MS. SHIWANI BHASKAR ( +91 8445159744 ) 
+ 
+
+--- Page 16 ---
+ 
+BSc(IT) I NCR3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY CAD101 TBI102 TBI101 
+NCR5 
+       
+TUESDAY           
+WEDNESDAY  CAD101 TBI104 
+NCR2 
+GEN. 
+Elective 
+NCR6 
+      
+THURSDAY TBI101 
+CR5 
+TBI104 
+NCR2 
+TBI102 
+CR5 
+LIB GEN. 
+Elective 
+NCR6 
+     
+FRIDAY TBI102 
+NCR5 
+CAD101 GEN. 
+Elective 
+NCR5 
+      
+SATURDAY  PBI102 LAB6 PBI101 LAB6 TBI101   
+Subject Code Subject Name Faculty 
+TBI101 Computer Fundamentals and 
+Information Technology Ms. Rashmi Kanyal 
+TBI102 Foundations of Computer 
+Programming Mr. Abhishek Thapa 
+CAD101 Probability and Statistics Ms. Anukriti 
+TBI104 Communication and Soft Skills MR. VIBHAKAR GHOSH 
+GE Startup Financing and Venture 
+Development Ms. Riya 
+ Multidisciplinary Course – 1 Open Elective 
+PBI101 Digital Productivity Tools for Modern 
+Workplaces Laboratory Ms. Rashmi Kanyal 
+PBI102 Foundations of Computer 
+Programming Laboratory Mr. Abhishek Thapa 
+MS. RASHMI KANYAL ( +91 8679736411 ) 
+ 
+
+--- Page 17 ---
+ 
+BSc(CS) I NCR3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY CAD101 TBS102 TBS101 
+NCR5 
+       
+TUESDAY           
+WEDNESDAY  CAD101 TBS104 
+NCR2 
+GEN. 
+Elective 
+NCR6 
+      
+THURSDAY TBS101 
+CR5 
+TBS104 
+NCR2 
+TBS102 
+CR5 
+LIB GEN. 
+Elective 
+NCR6 
+     
+FRIDAY TBS102 
+NCR5 
+CAD101 GEN. 
+Elective 
+NCR5 
+      
+SATURDAY  PBS102 LAB6 PBS101 LAB6 TBS101    
+Subject Code Subject Name Faculty 
+TBS101 Computer Fundamentals and 
+Information Technology Ms. Rashmi Kanyal 
+TBS102 Foundations of Computer 
+Programming With B.Sc IT I 
+CAD101 Probability and Statistics Ms. Anukriti 
+TBS104 Communication and Soft Skills MR. VIBHAKAR GHOSH 
+GE Startup Financing and Venture 
+Development Ms. Riya 
+ Multidisciplinary Course – 1 Open Elective 
+PBS101 Digital Productivity Tools for Modern 
+Workplaces Laboratory Ms. Rashmi Kanyal 
+PBS102 Foundations of Computer 
+Programming Laboratory With B.Sc IT I 
+MS. RASHMI KANYAL ( +91 8679736411 ) 
+ 
+
+=== PDF: Bca timetable\UG_III.pdf ===
+--- Page 1 ---
+BCA III  G1 CR 1 
+ 
+ 
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  
+DAYS  
+MONDAY       TBC302 
+NCR4 
+ TBC313 
+  NCR3  
+  TBC303 
+  NCR1  
+  
+TUESDAY      PBC302 
+Comprehensive viva 
+TBC302 
+NCR3  
+TBC311 
+  NCR3  
+ TBC303 
+  NCR1   
+WEDNESDAY
+  
+    TBC311 
+  NCR4 
+TBC301 
+LT13 
+TBC304  
+NCR4 
+LIB PBC302  DL2 
+THURSDAY      TBC301 
+LT15 
+TBC311 
+  NCR3  
+ TBC302 
+CR4 
+ TBC313 
+  NCR3  
+LIB   TBC303 
+LT5 
+FRIDAY      TBC301 
+LT15 
+TBC304 
+CR5 
+  TBC313 
+  NCR2 
+PBC301 AB FF 
+SATURDAY       PBC301 
+Comprehensive viva 
+SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+Code Title Faculty 
+TBC301 Introduction to Data Structures  Dr. Ravi Sharma 
+TBC302 Introduction to Database Management 
+System Dr. Vartika Agarwal 
+TBC303 Digital Logic Design Dr. Sanjay Roka 
+ Discipline-Specific Elective – 2  
+TBC311 Foundations of Artificial Intelligence Dr. Deepak Gaur 
+TBC313 Fundamentals of Cloud Computing Ms. Gunjan Mehra 
+TBC304 Skills for Career Success – I MR. ABHINAV SHARMA 
+UHV301 UHV-II  
+PBC301 Introduction to Data Structures Laboratory  Mr. Krishna Kumar/ Mr. Raunak Kumar 
+PBC302 Database Management System Laboratory Dr. Vartika Agarwal/ Ms. Divya/ Mr. 
+Abhishek Singh Janoti 
+MS. SHIKHA THAKUR (+91 7895932396)  
+& 
+ MR. KRISHNA KUMAR ( +91 6201645675 ) 
+
+--- Page 2 ---
+BCA III  G2 CR4 
+ 
+ 
+ 
+ 
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  
+DAYS  
+MONDAY     TBC302 
+CR1 
+TBC303 
+CR5 
+LIB  TBC313 
+  NCR3  
+PBC301 PARAM 
+SF 
+TUESDAY      PBC302  DL1 TBC303 
+  NCR1   
+TBC311 
+  NCR3  
+ 
+WEDNESDAY      TBC311 
+  NCR4 
+TBC301 
+LT13 
+TBC304  
+  NCR4 
+LIB  TBC303 
+LT8 
+TBC302 
+CR1 
+THURSDAY      TBC301 
+LT15 
+TBC311 
+  NCR4 
+LIB  TBC313 
+  NCR3  
+PBC302 
+Comprehensive viva 
+FRIDAY     TBC301 
+LT15 
+TBC304 
+CR5 
+TBC302 
+CR4 
+ TBC313 
+  NCR2 
+SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+SATURDAY        
+ 
+   
+Code Title Faculty 
+TBC301 Introduction to Data Structures  Dr. Ravi Sharma 
+TBC302 Introduction to Database Management 
+System Dr. Vartika Agarwal 
+TBC303 Digital Logic Design Dr. Sanjay Roka 
+ Discipline-Specific Elective – 2  
+TBC311 Foundations of Artificial Intelligence Dr. Deepak Gaur 
+TBC313 Fundamentals of Cloud Computing Ms. Gunjan Mehra 
+TBC304 Skills for Career Success – I MR. ABHINAV SHARMA 
+UHV301 UHV-II  
+PBC301 Introduction to Data Structures Laboratory Mr. Krishna Kumar/ Mr. Raunak Kumar 
+PBC302 Database Management System Laboratory Dr. Vartika Agarwal/ Ms. Divya/ Mr. Ravi 
+Raushan// Mr. Abhishek Singh Janoti 
+DR. V ARTIKA AGARWAL ( +91 7701994248 )  
+& 
+MR. KRISHNA KUMAR ( +91 6201645675 ) 
+
+--- Page 3 ---
+BCA III  G3 CR5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  
+DAYS  
+MONDAY      TBC311 
+  NCR3  
+TBC301 
+LT13 
+TBC304  
+CR5 
+LIB PBC302  DL2 
+TUESDAY      LIB TBC304   
+NCR1  
+TBC302 
+CR1 
+ TBC313 
+  NCR3  
+WEDNESDAY
+  
+   TBC302 
+CR1 
+PBC301 
+Comprehensive viva 
+TBC303 
+  NCR3  
+TBC303 
+NCR3 
+ TBC313 
+  NCR3  
+THURSDAY     TBC311 
+  NCR3 / 
+TBC313 
+TBC301 
+LT15 
+LIB TBC302 
+CR1 
+TBC303  
+NCR3  
+  
+FRIDAY       TBC301 
+LT15 
+LIB TBC311 
+  NCR1  
+PBC301 PARAM 
+SF 
+SATURDAY        PBC302 
+Comprehensive viva 
+SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+Code Title Faculty 
+TBC301 Introduction to Data Structures  Dr. Ravi Sharma 
+TBC302 Introduction to Database Management 
+System Dr. Vartika Agarwal 
+TBC303 Digital Logic Design Mr. J.Bhatt 
+ Discipline-Specific Elective – 2  
+TBC311 Foundations of Artificial Intelligence Dr. Deepak Gaur 
+TBC313 Fundamentals of Cloud Computing Ms. Gunjan Mehra 
+TBC304 Skills for Career Success – I Ms. Anshika Sharma 
+UHV301 UHV-II  
+PBC301 Introduction to Data Structures Laboratory Mr. Krishna Kumar/  Mr. Prajjwal Kumar 
+PBC302 Database Management System Laboratory Dr. Vartika Agarwal/ Mr. Ravi Raushan/ 
+Ms. Divya 
+MR. JAISHANKAR BHATT  (+91 8077915658 )  
+& 
+ MR.  RAVI RAUSHAN ( +91 7256049232 ) 
+
+--- Page 4 ---
+BCA III  G4 CR1 
+ 
+ 
+ 
+ 
+ 
+  
+Code Title Faculty 
+TBC301 Introduction to Data Structures  Dr. Ravi Sharma 
+TBC302 Introduction to Database Management 
+System Dr. Vartika Agarwal 
+TBC303 Digital Logic Design Dr. Sanjay Roka 
+ Discipline-Specific Elective – 2  
+TBC311 Foundations of Artificial Intelligence Mr. Mohit Amoli 
+TBC313 Fundamentals of Cloud Computing Ms. Gunjan Mehra 
+TBC304 Skills for Career Success – I Ms. Anshika Sharma 
+UHV301 UHV-II  
+PBC301 Introduction to Data Structures Laboratory  Mr. Krishna Kumar/ Mr. Sarvjeet Singh 
+PBC302 Database Management System Laboratory Dr. Vartika Agarwal/ MS. SHRUTI 
+BAHUGUNA/ Mr. Abhishek Singh Janoti 
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  
+DAYS  
+MONDAY      TBC311  
+   NCR5  
+TBC301 
+LT13 
+TBC304  
+CR5 
+TBC303 
+  NCR1  
+PBC301 NEW 
+LAB1 
+TUESDAY      PBC301 
+Comprehensive viva 
+TBC311 
+NCR5  
+TBC304   
+NCR1  
+LIB  TBC313 
+  NCR3  
+WEDNESDAY       LIB TBC302 
+CR1 
+TBC311  
+  NCR4  
+ TBC313 
+  NCR3  
+THURSDAY      TBC313 
+   
+TBC301 
+LT15 
+TBC303 
+  NCR1 
+PBC302 
+Comprehensive viva 
+TBC302 
+CR1 
+FRIDAY      TBC303 
+  NCR5 
+TBC301 
+LT15 
+LIB TBC302 
+CR1 
+PBC302  DL2 
+SATURDAY          
+DR. V ARTIKA AGARWAL ( +91 7701994248 )  
+& 
+ MS. SHRUTI BAHUGUNA ( +91 8191900644 ) 
+
+--- Page 5 ---
+BCA III  AI/DS  A1 CR1 
+ 
+ 
+ 
+ 
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY      TBD304 
+NCR2 
+TBD301 
+LT15 
+TBD303 
+CR4 
+ TBD302 
+CR1 
+TBD313   
+NCR3 
+  
+TUESDAY      TBD315  
+CR1 
+TBD303 
+CR4 
+ TBD302 
+CR1 
+TBD313   
+NCR4 
+  
+WEDNESDAY
+  
+     TBD315  
+CR4 
+TBD303 
+CR4 
+TBD301 
+NCR2 
+  
+THURSDAY     PBD302 DL1 LIB TBD301  
+LT3 
+PBD302 DL1 (ML 
+LAB) 
+FRIDAY       TBD302 
+CR1 
+TBD304 
+  NCR2  
+LIB PBD302 
+Comprehensive viva 
+  
+SATURDAY      PBD301 
+Comprehensive viva 
+TBD313 
+NCR3 
+TBD315 
+CR1 
+PBD301 DL2 
+Code Title Faculty 
+TBD301 Introduction to Data Structures  Dr. Siddhant Thapliyal 
+TBD302 Introduction to Database Management 
+Systems Dr. Ankur Choudhary 
+TBD303 Introduction to Machine Learning Dr. Vandana Rawat 
+ Discipline-Specific Elective – 2  
+TBD313 Fundamental of cloud computing Mr. Nikhil Bisht 
+TBD315 Introduction to Soft Computing Mr. J. S. Bhatt 
+TBD304 Skills for Career Success – I Ms. Anshika Sharma 
+UHV301 UHV-II  
+PBD301 Introduction to Data Structures Laboratory Ms. Shruti Saini/ Mr. Gautam Badoni  
+PBD302 Database Management Systems and 
+Machine Learning Laboratory 
+Dr. Vandana Rawat(ML) & Ms. Shiwani 
+Bhaskar/  MS. SHRUTI BAHUGUNA & Ms. 
+Rashmi Kaniyal/ Mr. Pranjal Kala 
+DR. V ANDANA RAWAT ( +91 7055001712 )  
+& 
+RASHMI KANYAL ( +91 6397154208 ) 
+ 
+
+--- Page 6 ---
+BCA III  AI/DS  A2  
+ 
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY      TBD302 
+CR4  
+TBD301 
+LT15 
+LIB TBD303 
+CR4 
+TBD313   
+NCR3 
+  
+TUESDAY     
+ 
+ TBD315  
+CR1 
+SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+TBD313   
+NCR4 
+ TBD304 
+CR4 
+WEDNESDAY
+  
+   TBD303 
+CR4 
+TBD315  
+CR4 
+TBD304 
+NCR3  
+TBD301 
+NCR2 
+PBD301 PARAM 
+FF 
+THURSDAY       TBD302 
+CR1 
+PBD302 
+Comprehensive viva 
+TBD301  
+LT3 
+TBD303 
+CR1 
+ 
+FRIDAY     PBD302 DL1 (ML 
+LAB) 
+LIB  TBD302 
+CR4 
+PBD302 DL1 
+SATURDAY       TBD313 
+NCR3 
+TBD315 
+CR1 
+PBD301 
+Comprehensive viva 
+Code Title Faculty 
+TBD301 Introduction to Data Structures  Dr. Siddhant Thapliyal 
+TBD302 Introduction to Database Management 
+Systems Dr. Ankur Choudhary 
+TBD303 Introduction to Machine Learning Dr. Vandana Rawat 
+ Discipline-Specific Elective – 2  
+TBD313 Fundamental of cloud computing Mr. Nikhil Bisht 
+TBD315 Introduction to Soft Computing Mr. J. S. Bhatt 
+TBD304 Skills for Career Success – I Ms. Anshika Sharma 
+UHV301 UHV-II  
+PBD301 Introduction to Data Structures Laboratory Ms. Shruti Saini/ Mr. Gautam Badoni 
+PBD302 Database Management Systems and 
+Machine Learning Laboratory 
+Dr. Vandana Rawat(ML) & Ms. Shiwani 
+Bhaskar  / Mr. Ravi Raushan & Ms. 
+Rashmi Kaniyal/ Mr. Abhishek Singh 
+Janoti 
+DR. V ANDANA RAWAT ( +91 7055001712 )  
+& 
+ RASHMI KANYAL ( +91 6397154208 ) 
+ 
+
+--- Page 7 ---
+BCA III  AI/DS  A3 CR4 
+ 
+ 
+ 
+   
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY      TBD313 
+  NCR4 
+ TBD302 
+CR1 
+PBD301 
+Comprehensive viva 
+PBD301 PARAM 
+FF 
+TUESDAY      TBD313 
+  NCR3  
+TBD315  
+CR1 
+ LIB TBD301  
+NCR2 
+PBD302 DL2 (ML 
+LAB) 
+WEDNESDAY
+  
+     TBD315  
+CR4 
+ TBD303 
+CR5 
+TBD304 
+CR1 
+ 
+THURSDAY     TBD301 
+NCR4 
+ TBD304 
+CR4 
+TBD303 
+CR5 
+ TBD302 
+CR4 
+ 
+FRIDAY      TBD301 
+NCR3 
+TBD302 
+CR1 
+SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+TBD303 
+CR1 
+TBD313 
+  NCR3 
+SATURDAY        PBD302 
+Comprehensive viva 
+ TBD315 
+CR1 
+PBD302 DL1 
+Code Title Faculty 
+TBD301 Introduction to Data Structures  Dr. Siddhant Thapliyal 
+TBD302 Introduction to Database Management 
+Systems Dr. Ankur Choudhary 
+TBD303 Introduction to Machine Learning Dr. Vandana Rawat 
+ Discipline-Specific Elective – 2  
+TBD313 Fundamental of cloud computing Mr. Nikhil Bisht 
+TBD315 Introduction to Soft Computing Mr. J. S. Bhatt 
+TBD304 Skills for Career Success – I Ms. Anshika Sharma 
+UHV301 UHV-II  
+PBD301 Introduction to Data Structures Laboratory Ms. Swati Pant/ Ms. Shruti Saini/ Mr. 
+Gautam Badoni 
+PBD302 Database Management Systems and 
+Machine Learning Laboratory 
+Dr. Vandana Rawat(ML)  & Ms. Shiwani 
+Bhaskar/  Ms. Shruti Bahuguna &Ms. 
+Rashmi Kaniyal/ Mr. Pranjal Kala 
+MS. SHRUTI SAINI ( +91 9897625839 ) 
+& 
+MR. GAUTAM BADONI ( +91 8218100582 ) 
+ 
+ 
+ 
+
+--- Page 8 ---
+BCA III AI/DS  A4 CR8 
+ 
+ 
+    
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY     TBD313 
+  NCR4 
+TBD303 
+CR4 
+PBD302 LAB3 (ML 
+LAB) 
+ TBD304 
+CR1 
+ TBD302 
+CR1 
+TUESDAY      TBD313 
+  NCR3  
+TBD315  
+CR1 
+LIB TBD301  
+NCR2 
+ TBD303 
+CR4 
+ 
+WEDNESDAY
+  
+     TBD315  
+CR4 
+LIB TBD304 
+  CR4 
+PBD302 NEW LAB 
+1 
+THURSDAY    TBD301 
+NCR4 
+  TBD302  
+NCR6 
+PBD302 
+Comprehensive viva 
+SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+FRIDAY     TBD301  
+NCR3 
+TBD303 
+NCR5 
+PBD301 
+Comprehensive viva 
+ TBD302 
+CR4 
+TBD313 
+  NCR3 
+SATURDAY       TBD315 
+CR1 
+PBD301 AB FF 
+Code Title Faculty 
+TBD301 Introduction to Data Structures  Dr. Siddhant Thapliyal 
+TBD302 Introduction to Database Management 
+Systems Ms. Shikha Thakur 
+TBD303 Introduction to Machine Learning Ms. Gunjan Mehra 
+ Discipline-Specific Elective – 2  
+TBD313 Fundamental of cloud computing Mr. Nikhil Bisht 
+TBD315 Introduction to Soft Computing Mr. J. S. Bhatt 
+TBD304 Skills for Career Success – I Ms. Anshika Sharma 
+UHV301 UHV-II  
+PBD301 Introduction to Data Structures Laboratory Ms. Shruti Saini/ Mr. Gautam Badoni/ 
+Ms. Saba Ali 
+PBD302 Database Management Systems and 
+Machine Learning Laboratory 
+Ms. Shikha Thakur &  Mr. Ravi Raushan & 
+Mr. Pranjal Kala  / Ms. Gunjan Mehra & 
+Ms. Shiwani Bhaskar   
+MS. GUNJAN MEHRA ( +91 7088316631 ) 
+ & 
+MR. GAUTAM BADONI ( +91 8218100582 ) 
+
+--- Page 9 ---
+BCA III AI/DS  A5 CR 4 
+ 
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY      TBD304 
+  CR4 
+ PBD302 
+Comprehensive viva 
+ 
+TUESDAY       TBD301 
+LT3 
+TBD315  
+CR1/ 
+TBD313   
+NCR4 
+LIB TBD303  
+  CR5  
+PBD302 DL1 
+WEDNESDAY
+  
+     TBD301 
+LT3 
+TBD315  
+CR4 
+SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+TBD303 
+CR4 
+TBD302 
+LT5 
+THURSDAY       PBD302 DL2 (ML 
+LAB) 
+TBD313 
+NCR2 
+ LIB PBD301 AB FF 
+FRIDAY       TBD301 
+LT3 
+TBD302 
+CR4 
+LIB TBD304 
+CR5 
+PBD301 
+Comprehensive viva 
+SATURDAY       TBD302 
+CR1 
+LIB TBD303 
+CR5 
+TBD313 
+CR4 
+TBD315 
+CR1 
+  
+Code Title Faculty 
+TBD301 Introduction to Data Structures  Ms. Meenakshi 
+TBD302 Introduction to Database Management 
+Systems Mr. Utsav Kumar 
+TBD303 Introduction to Machine Learning Ms. Gunjan Mehra 
+ Discipline-Specific Elective – 2  
+TBD313 Fundamental of cloud computing Mr. Nikhil Bisht 
+TBD315 Introduction to Soft Computing Mr. J. S. Bhatt 
+TBD304 Skills for Career Success – I Ms. Anshika Sharma 
+UHV301 UHV-II  
+PBD301 Introduction to Data Structures Laboratory Mr. Prajjwal Kumar 
+PBD302 Database Management Systems and 
+Machine Learning Laboratory 
+Mr. Utsav Kumar & Ms. Divya & Mr. 
+Pranjal Kala / Ms. Gunjan Mehra &Mr. 
+Prajjwal Kumar 
+MR. UTSA V KUMAR ( +91 9576685689  
+& 
+MR.  PRAJJWAL KUMAR( +91 8538917091) 
+
+--- Page 10 ---
+BCA III AI/DS  A6   
+ 
+ 
+  
+Code Title Faculty 
+TBD301 Introduction to Data Structures  Ms. Meenakshi 
+TBD302 Introduction to Database Management 
+Systems Mr. Utsav Kumar 
+TBD303 Introduction to Machine Learning Mr.  Mohd Shuaib  
+ Discipline-Specific Elective – 2  
+TBD313 Fundamental of cloud computing Mr. Nikhil Bisht 
+TBD315 Introduction to Soft Computing Mr. J. S. Bhatt 
+TBD304 Skills for Career Success – I Ms. Anshika Sharma 
+UHV301 UHV-II  
+PBD301 Introduction to Data Structures Laboratory Mr. Raunak Kumar/ Mr. Pratham  
+PBD302 Database Management Systems and 
+Machine Learning Laboratory 
+Mr. Utsav Kumar & Mr. Viplaw Kumar 
+Sinha & Mr. Pranjal Kala / Mr. Mohd. 
+Shuaib  & Ms. Shiwani Bhaskar 
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY       TBD302 
+  NCR3  
+PBD301 
+Comprehensive viva 
+PBD302 DL1 
+TUESDAY      TBD301 
+LT3 
+TBD315  
+CR1/ 
+TBD313   
+NCR4 
+SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+PBD301 AB FF 
+WEDNESDAY
+  
+    TBD301 
+LT3 
+TBD315  
+CR4 
+ TBD304 
+CR1 
+TBD303 
+CR5 
+THURSDAY       TBD304 
+CR4 
+TBD313 
+NCR2 
+LIB TBD303  
+NCR2 
+TBD303  
+NCR2 
+FRIDAY      TBD301 
+LT3 
+PBD302 
+Comprehensive viva 
+TBD302 
+  NCR4 
+PBD302 PARAM 
+FF (ML LAB) 
+SATURDAY       TBD302 
+CR1 
+ TBD313 
+CR4 
+TBD315 
+CR1 
+ 
+MS. SHIKHA THAKUR (+91 7895932396)  
+& 
+ MS. SHIWANI BHASKAR ( +91 8445159744 ) 
+ 
+
+--- Page 11 ---
+BCA III Cyber  Security 
+ 
+ 
+ 
+ 
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY       TBL311 PBL301 
+Comprehensive viva 
+TBL303 
+CR4 
+TBL303 
+CR4 
+TUESDAY      TBL302 
+CR4 
+TBL304 
+CR4 
+PBL302 
+Comprehensive viva 
+ 
+WEDNESDAY       TBL304 
+CR1 
+TBL301  
+CR05 
+TBL311 SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+THURSDAY      TBL303 
+NCR2 
+TBL302 
+CR5 
+LIB TBL301  
+CR05 
+PBL301 LAB3 
+FRIDAY       TBL311 TBL301  
+CR05 
+TBL303 
+ 
+  
+SATURDAY       TBL302 
+CR5 
+PBL302  LAB6   
+Code Title Faculty 
+TBL301 Introduction to Data Structures Ms. Meenakshi 
+TBL302 Cryptography Dr. K. C. Purohit 
+TBL303 Operating Systems and Security Mr. OP Pal 
+TBL304 Skills for Career Success – I MR. ABHINAV SHARMA 
+ Discipline-Specific Elective – 2  
+TBL311 Ethical Hacking Ms. Swati Pant 
+UHV301 UHV-II  
+PBL301 Introduction to Data Structures Laboratory Mr. Pratham Setia/ Ms. Swati Pant/ Mr. 
+Raunak Kumar 
+PBL302 Operating Systems and Security 
+Laboratory Ms. Swati Pant 
+MS. SWATI PANT( +91 7500057411)  
+ 
+
+--- Page 12 ---
+BSC.IT III  
+ 
+ 
+ 
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY      PBI302 
+Comprehensive viva 
+TBI301 
+NCR5 
+TBI302 
+CR5 
+ 
+TUESDAY       TBI304 
+CR5 
+TBI301 LIB CAD301  
+ 
+ 
+WEDNESDAY
+  
+    CAD301 
+LT8  
+TBI304 
+CR5 
+TBI303  
+CR05 
+ PBI301 IBM LAB 
+THURSDAY       SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+TBI303  
+CR05 
+TBI302 
+CR5 
+  
+FRIDAY      LIB TBI303  
+CR05 
+TBI301 
+ 
+PBI301 
+Comprehensive viva 
+SATURDAY       LIB CAD301 
+CR4 
+TBI302 
+CR1 
+PBI302 LAB6 
+Code Title Faculty 
+TBI301 Introduction to Operating Systems Mr. Abhishek Thapa 
+TBI302 Introductions to Database Management 
+Systems Mr. Utsav Kumar 
+TBI303 Introduction to Data Structures  Ms. Meenakshi 
+CAD301 Foundations of Artificial Intelligence Mr. Mohit Amoli 
+TBI304 Skills for Career Success – 1 MR. ABHINAV SHARMA 
+UHV301 UHV-II Online/i-Learn 
+PBI301 Database Management Systems Laboratory Mr. Utsav Kumar/ Mr. Viplaw Kumar Sinha 
+PBI302 Introduction to Data Structures Laboratory Mr. Pratham Setia/ Ms. Swati Pant/ Mr. 
+Krishna Kumar 
+MR. UTSA V KUMAR ( +91 9576685689 ) 
+ 
+
+--- Page 13 ---
+BSC.CS III  
+ 
+ 
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY       TBS301 
+NCR5 
+TBS302 
+CR5 
+ 
+TUESDAY     SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+TBS305      
+CR5 
+TBS301 
+ 
+TBS304 
+Para Build.. 
+CAD301   
+WEDNESDAY
+  
+    CAD301 
+LT8  
+TBS305 
+CR5 
+TBS303  
+CR05 
+LIB PBS301 IBM 
+LAB 
+THURSDAY     PBS302 
+Comprehensive viva 
+TBS304  
+PARA B. 
+LIB TBS303  
+CR05 
+TBS302 
+CR5  
+  
+FRIDAY     PBS301 
+Comprehensive viva 
+TBS303  
+CR05 
+ TBS301 TBS304 
+CR5  
+ 
+SATURDAY       LIB CAD301 
+CR4 
+TBS302 
+CR5 
+PBS302 LAB6 
+Code Title Faculty 
+TBS301 Introduction to Operating Systems With BSc IT III 
+TBS302 Introductions to Database Management 
+Systems With BSc IT III 
+TBS303 Introduction to Data Structures  Ms. Meenakshi 
+TBS304 Computer Organization and Architecture Mr. J. Bhatt 
+CAD 301 Foundations of Artificial Intelligence With BSc IT III 
+TBS305 Skills for Career Success – 1 MR. ABHINAV SHARMA 
+UHV301 UHV-II Online/i-Learn 
+PBS301 Database Management Systems Laboratory with BSc IT III 
+PBS302 Introduction to Data Structures Laboratory Mr. Pratham Setia/ Ms. Swati Pant/ Mr. 
+Krishna Kumar 
+MR. UTSA V KUMAR ( +91 9576685689 ) 
+ 
+
+--- Page 14 ---
+ 
+ 
+ 
+Code Title Faculty 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY                       
+TUESDAY                      
+WEDNESDAY                      
+THURSDAY                      
+FRIDAY                      
+SATURDAY                      
+
+=== PDF: Bca timetable\UG_V.pdf ===
+--- Page 1 ---
+BCA V SEC ‘A’   
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY       PBC502 
+Comprehensive 
+viva 
+TBC525 
+  NCR5 
+TBC503  
+NCR4 
+TBC501  
+Lt4 
+TUESDAY      TBC504 
+NCR1 
+TBC504 
+NCR1 
+TBC522 
+NCR2 
+ TBC503  
+NCR1 
+TBC501  
+Lt4 
+WEDNESDAY
+  
+    PBC501 DL1 TBC525 
+   
+TBC522 
+  NCR4 
+TBC501  
+NCR1 
+TBC502 
+Lt8 
+THURSDAY     PBC501 
+Comprehensive 
+viva 
+TBC522 
+NCR2 
+PBC502 LAB 3 TBC503 
+LT4 
+TBC502 
+LT4 
+FRIDAY     TBC502 
+NCR3 
+  TBC525 
+  NCR1 
+LIB SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+SATURDAY            
+Code Title Faculty 
+TBC501 Introduction to Java Programming Mr. H. S. Negi 
+TBC502 Introduction to Data Mining Dr. Aditya Joshi 
+TBC503 Introduction to Microcontrollers Alankrita Joshi 
+ University Open Elective / General 
+Elective – 2  
+ Discipline-Specific Elective – 4  
+TBC522 Introduction to Machine Learning  Mr. Priyansh Kumar 
+TBC525 Introduction to .NET Programming Mohd. Shuaib 
+TBC504 Skills for Career Success – 3 MR. ANKIT TRIPATHI 
+PBC502 Data Mining Laboratory  Dr. Aditya Joshi (Mentor)/ Mr. Pratham  
+PBC501 Java Programming Laboratory Mr. H. S. Negi/ Mr. Raunak Kumar/ Mr. 
+Sarvjeet Singh 
+MR. HARENDRA NEGI (+91 8126475013 ) 
+& 
+ MR. RAUNAK KUMAR ( +91 9905552766 ) 
+
+--- Page 2 ---
+BCA V SEC ‘B’  
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY      PBC502 
+AB GF  
+TBC522 
+PARA 
+B. 
+TBC525 
+  NCR5 
+TBC503 
+NCR4 
+TBC501  
+Lt4 
+TUESDAY      TBC504 
+NCR1 
+TBC504 
+NCR1 
+PBC501 
+Comprehensive 
+viva 
+TBC503 
+NCR1 
+TBC501  
+Lt4 
+WEDNESDAY
+  
+     TBC522 
+  NCR5 
+TBC525 
+   
+LIB TBC501 
+NCR1 
+TBC502 
+Lt8 
+THURSDAY     SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+PBC502 
+Comprehensive 
+viva 
+TBC522 
+PARA 
+MED.. 
+TBC503 
+LT4 
+TBC502 
+LT4 
+FRIDAY      TBC502 
+NCR3 
+ TBC525 
+  NCR1 
+ PBC501 LAB3 
+SATURDAY            
+Code Title Faculty 
+TBC501 Introduction to Java Programming Mr. H. S. Negi 
+TBC502 Introduction to Data Mining Dr. Aditya Joshi 
+TBC503 Introduction to Microcontrollers Alankrita Joshi 
+ University Open Elective / General 
+Elective – 2  
+ Discipline-Specific Elective – 4  
+TBC522 Introduction to Machine Learning  Mr. Priyansh Kumar 
+TBC525 Introduction to .NET Programming Mohd. Shuaib 
+TBC504 Skills for Career Success – 3 MR. ANKIT TRIPATHI 
+PBC502 Data Mining Laboratory  Dr. Aditya Joshi (Mentor)/ Mr. Pratham  
+PBC501 Java Programming Laboratory Mr. H. S. Negi/ Mr. Raunak Kumar/ Mr. 
+Sarvjeet Singh 
+MR. HARENDRA NEGI (+91 8126475013 ) 
+& 
+MR. RAUNAK KUMAR ( +91 9905552766 ) 
+ 
+
+--- Page 3 ---
+BCA V SEC ‘C’  
+ 
+  
+   
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY      TBC525 
+  NCR1 
+TBC504 
+  LT3 
+TBC504 
+  LT3 
+TBC503 
+  NCR2 
+TBC502 
+LT3 
+TBC501 
+LT3 
+TUESDAY       TBC525 
+  NCR5 
+TBC522 
+NCR2 
+TBC503 
+  NCR3 
+TBC501 
+NCR3 
+ 
+WEDNESDAY
+  
+    PBC501 
+Comprehensive 
+viva 
+TBC503 
+  NCR1 
+TBC522 
+  NCR4 
+TBC501 
+LT4 
+ 
+THURSDAY     TBC525 
+   
+LIB TBC522 
+NCR2 
+TBC502 
+NCR4 
+LIB PBC502 
+Comprehensive 
+viva 
+FRIDAY       TBC502 
+NCR3 
+PBC501 LAB 3 PBC502 AB GF  
+SATURDAY           
+Code Title Faculty 
+TBC501 Introduction to Java Programming Dr. Bhawnesh Kumar 
+TBC502 Introduction to Data Mining Dr. Aditya Joshi 
+TBC503 Introduction to Microcontrollers Alankrita Joshi 
+ University Open Elective / General 
+Elective – 2  
+ Discipline-Specific Elective – 4  
+TBC522 Introduction to Machine Learning  Mr. Priyansh Kumar 
+TBC525 Introduction to .NET Programming Mohd. Shuaib 
+TBC504 Skills for Career Success – 3 MR. ANKIT TRIPATHI 
+PBC502 Data Mining Laboratory  Dr. Aditya Joshi (Mentor)/ Mr. Pratham  
+PBC501 Java Programming Laboratory Dr. Bhawnesh Kumar/ Mr. Viplaw kumar 
+Sinha/ Mr. Sarvjeet Singh 
+DR. BHAWNESH KUMAR (+91 9897680354 )  
+& 
+ MR. VIPLAW KUMAR SINHA (  +91 9548962381 
+) 
+
+--- Page 4 ---
+BCA V SEC ‘D’  
+   
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY      TBC525 
+  NCR1 
+SWAYAM/Traini
+n g/Extra-
+Curricular 
+Activities/LIB 
+TBC503 
+  NCR2 
+TBC502 
+LT3 
+TBC501 
+LT3 
+TUESDAY     PBC501 
+Comprehensive 
+viva 
+TBC525 
+  NCR5 
+TBC522 
+CR5 
+TBC503 
+  NCR3 
+TBC501 
+NCR3 
+ 
+WEDNESDAY      PBC501  
+AB GF  
+TBC503 
+  NCR1 
+TBC522 
+  NCR1 
+TBC501 
+LT4 
+ 
+THURSDAY     TBC525 
+   
+TBD504  
+  NCR4 
+TBD504  
+  NCR4 
+TBC502 
+NCR4 
+ PBC502  DL2 
+FRIDAY      TBC522 
+  NCR1 
+TBC502 
+NCR3 
+LIB PBC502 
+Comprehensive 
+viva 
+ 
+SATURDAY          
+Code Title Faculty 
+TBC501 Introduction to Java Programming Dr. Bhawnesh Kumar 
+TBC502 Introduction to Data Mining Dr. Aditya Joshi 
+TBC503 Introduction to Microcontrollers Alankrita Joshi 
+ University Open Elective / General 
+Elective – 2  
+ Discipline-Specific Elective – 4  
+TBC522 Introduction to Machine Learning  Mr. Pratik Kumar 
+TBC525 Introduction to .NET Programming Mohd. Shuaib 
+TBC504 Skills for Career Success – 3 MR. VIBHAKAR GHOSH 
+PBC502 Data Mining Laboratory  Dr. Aditya Joshi (Mentor)/ Mr. Pratham  
+PBC501 Java Programming Laboratory Dr. Bhawnesh Kumar/ Mr. Viplaw kumar 
+Sinha/ Ms. Saba Ali 
+DR. BHAWNESH KUMAR (+91 9897680354 )  
+& 
+ MR. VIPLAW KUMAR SINHA (  +91 9548962381 
+) 
+ 
+
+--- Page 5 ---
+BCA V SEC ‘H’  
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY     TBC503 
+NCR6 
+ TBC504 
+  LT3 
+TBC504 
+  LT3 
+TBC525 
+  NCR5 
+ TBC502 
+LT7 
+TUESDAY     TBC503 
+CR1 
+SWAYAM/Traini
+n g/Extra-
+Curricular 
+Activities/LIB 
+TBC522 
+CR5 
+ PBC502 
+AB GF 
+WEDNESDAY
+  
+    PBC502 
+Comprehensive 
+viva 
+TBC525 
+   
+TBC522 
+  NCR1 
+ TBC501 
+LT6 
+THURSDAY      PBC501 
+AB GF  
+PBC501 
+Comprehensive 
+viva 
+TBC501 
+NCR1 
+TBC501 
+CR25 
+CIVIL 
+FRIDAY     TBC503 
+  CR4 
+TBC522 
+  NCR1 
+ TBC525 
+NCR1 
+LIB TBC502 
+CR25 
+CIVIL 
+TBC502 
+CR25 
+CIVIL 
+SATURDAY          
+Code Title Faculty 
+TBC501 Introduction to Java Programming Dr. Bhawnesh Kumar 
+TBC502 Introduction to Data Mining Dr. Aditya Joshi 
+TBC503 Introduction to Microcontrollers Alankrita Joshi 
+ University Open Elective / General 
+Elective – 2  
+ Discipline-Specific Elective – 4  
+TBC522 Introduction to Machine Learning  Mr. Pratik Kumar 
+TBC525 Introduction to .NET Programming Mohd. Shuaib 
+TBC504 Skills for Career Success – 3 MR. ANKIT TRIPATHI 
+PBC502 Data Mining Laboratory  Dr. Aditya Joshi (Mentor)/ Ms. Shruti 
+Bahuguna 
+PBC501 Java Programming Laboratory Dr. Bhawnesh Kumar/ Mr. Viplaw kumar 
+Sinha/ Ms. Saba Ali 
+DR. ADITYA JOSHI(+91 9557004416 )  
+& 
+ MS. SHRUTI BAHUGUNA ( +91 8191900644 ) 
+
+--- Page 6 ---
+BCA (AI/DS) V  SEC ‘E’  
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY       TBD522 
+NCR2 
+TBD521 
+NCR2 
+TBD501 
+NCR4 
+TBD502 
+LT8 
+ 
+TUESDAY      PBD502 
+Comprehensive 
+viva 
+TBD521  
+NCR4 
+TBD522 
+CR4 
+TBD503 
+LT4 
+ 
+WEDNESDAY
+  
+    SWAYAM/Traini
+n g/Extra-
+Curricular 
+Activities/LIB 
+PBD501 
+Comprehensive 
+viva 
+TBD503 
+LT3 
+TBD502 
+LT3 
+THURSDAY     TBD503 
+LT3 
+LIB  TBD521 
+NCR1 
+TBD522 
+CR4 
+ 
+TBD501 
+LT3 
+FRIDAY      PBD502  
+AB GF 
+TBD504 
+NCR3 
+TBD504 
+NCR3 
+TBD501 
+LT9 
+ 
+SATURDAY      PBD501 
+LAB3 
+ TBD502 
+LT4 
+TBD503 
+LT3 
+ 
+Code Title Faculty 
+TBD501 Introduction to Machine Learning Dr. Anita Saroj (CSE) 
+TBD502 Programming with ‘R’ Mr. Mohit Amoli 
+TBD503 Introduction to Software Engineering Dr. A. S. Shukla 
+ University Open Elective / General 
+Elective – 2  
+ Discipline-Specific Elective – 4  
+TBD521 Cryptography Dr. Ovais Bashir 
+TBD522 Introduction to Mobile Application 
+Development  Mr. H. S. Negi 
+TBD504 Skills for Career Success – 3 MR. VIBHAKAR GHOSH 
+PBD501 Machine Learning Laboratory  Dr. Anita Saroj / Mr. Priyansh Kumar 
+PBD502 Programming with ‘R’ Laboratory Mr. Mohit Amoli/ Mr. Pratham Setia 
+MR. PRIYANSH KUMAR ( +91 7500068057 )  
+& 
+MR. PRATHAM SETIA(+91 63984 22621) 
+
+--- Page 7 ---
+BCA (AI/DS) V ‘F’  
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY       TBD522 
+NCR2 
+TBD521 
+NCR2 
+TBD501 
+NCR4 
+TBD502 
+LT8 
+ 
+TUESDAY      PBD502 
+AB GF 
+TBD521  
+NCR4 
+TBD522 
+CR4 
+TBD503 
+LT4 
+ 
+WEDNESDAY
+  
+    PBD501 
+Comprehensive 
+viva 
+PBD502 
+Comprehensive 
+viva 
+TBD503 
+LT3 
+TBD502 
+LT3 
+THURSDAY      TBD503 
+LT3 
+SWAYAM/Traini
+n g/Extra-
+Curricular 
+Activities/LIB 
+TBD521 
+NCR1 
+TBD522 
+CR4 
+TBD501 
+LT3 
+FRIDAY      PBD501 LAB 3 TBD504 
+NCR3 
+TBD504 
+NCR3 
+TBD501 
+LT9 
+ 
+SATURDAY         TBD502 
+LT4 
+TBD503 
+LT3 
+ 
+Code Title Faculty 
+TBD501 Introduction to Machine Learning Dr. Anita Saroj (CSE) 
+TBD502 Programming with ‘R’ Mr. Mohit Amoli 
+TBD503 Introduction to Software Engineering Dr. A. S. Shukla 
+ University Open Elective / General 
+Elective – 2  
+ Discipline-Specific Elective – 4  
+TBD521 Cryptography Dr. Ovais Bashir 
+TBD522 Introduction to Mobile Application 
+Development  Mr. H. S. Negi 
+TBD504 Skills for Career Success – 3 MR. VIBHAKAR GHOSH 
+PBD501 Machine Learning Laboratory  Dr. Anita Saroj / Mr. Priyansh Kumar 
+PBD502 Programming with ‘R’ Laboratory Mr. Mohit Amoli/ Mr. Pratham Setia 
+MR. PRIYANSH KUMAR ( +91 7500068057 )  
+& 
+MR. PRATHAM SETIA(+91 63984 22621) 
+
+--- Page 8 ---
+BCA (AI/DS) V SEC ‘G’   
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY       TBD522 
+NCR2 / 
+TBD521 
+NCR5 
+PBD502 
+Comprehensive 
+viva 
+PBD501 
+AB GF 
+TUESDAY       TBD503  
+NCR2 
+ TBD522 
+CR4 
+PBD502  PARAM 
+SF 
+WEDNESDAY
+  
+    TBD503 
+LT4 
+TBD502 
+NCR3 
+PBD501 
+Comprehensive 
+viva 
+TBD501 
+NCR6 
+ 
+THURSDAY      TBD504  
+  NCR4 
+TBD504  
+  NCR4 
+SWAYAM/Traini
+n g/Extra-
+Curricular 
+Activities/LIB 
+TBD522 
+CR4/ 
+TBD521 
+LT2 
+TBD502 
+NCR3 
+FRIDAY        
+ 
+TBD521 
+CR1 
+ TBD502 
+LT4 
+TBD503 
+LT3 
+SATURDAY       TBD503 
+LT3 
+LIB TBD501 
+LT8 
+TBD501 
+LT8 
+ 
+Code Title Faculty 
+TBD501 Introduction to Machine Learning Mr. Priyansh Kumar 
+TBD502 Programming with ‘R’ Mr. Pratik Kumar 
+TBD503 Introduction to Software Engineering Dr. A. S. Shukla 
+ University Open Elective / General 
+Elective – 2  
+ Discipline-Specific Elective – 4  
+TBD521 Cryptography Dr. Ovais Bashir 
+TBD522 Introduction to Mobile Application 
+Development  Mr. H. S. Negi 
+TBD504 Skills for Career Success – 3 MR. VIBHAKAR GHOSH 
+PBD501 Machine Learning Laboratory  Mr. Priyansh Kumar/ Mr. Prajjwal Kumar 
+PBD502 Programming with ‘R’ Laboratory Mr. Pratik Kumar/ Mr. Ravi Raushan 
+MR. PRATIK KUMAR ( +91 8404941098)  
+& 
+MR. RA VI RAUSHAN ( +91 7256049232 ) 
+
+--- Page 9 ---
+BCA V SEC ‘J1’ Para Medical Building CR 7/CR 8/CR 9  
+  
+Code Title Faculty 
+TBC501 Introduction to Java Programming Dr. Bhawnesh Kumar 
+TBC502 Introduction to Data Mining Dr. Aditya Joshi 
+TBC503 Introduction to Microcontrollers Alankrita Joshi 
+ University Open Elective / General 
+Elective – 2  
+ Discipline-Specific Elective – 4  
+TBC522 Introduction to Machine Learning  Mr. Pratik Kumar 
+TBC525 Introduction to .NET Programming Mohd. Shuaib 
+TBC504 Skills for Career Success – 3 MR. PURNENDU AGARWAL 
+PBC502 Data Mining Laboratory  Dr. Aditya Joshi (Mentor)/ Ms. Shruti 
+Bahuguna 
+PBC501 Java Programming Laboratory Dr. Bhawnesh Kumar/  Ms. Payal Karki/ Ms. 
+Saba Ali 
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY     TBC503 
+NCR6 
+TBC525 
+  NCR1 
+PBC502 
+Comprehensive viva 
+  TBC502 
+LT7 
+TUESDAY     TBC503 
+CR1 
+ TBC525 
+  NCR5 
+TBC522 
+CR5 
+PBC501 
+Comprehensive viva 
+ 
+WEDNESDAY
+  
+    PBC501 LAB6  TBC522 
+  NCR1 
+ TBC501 
+LT6 
+THURSDAY     TBC525 
+   
+SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+PBC502 LAB6 TBC501 
+CR25 
+CIVIL 
+TBC501 
+CR25 
+CIVIL 
+FRIDAY     TBC503 
+  CR4 
+TBC522 
+  NCR1 
+TBC504 
+NCR4  
+TBC504 
+NCR4 
+LIB TBC502 
+CR25 
+CIVIL 
+TBC502 
+CR25 
+CIVIL 
+SATURDAY          
+DR. ADITYA JOSHI(+91 9557004416 )  
+ 
+ 
+ 
+& 
+ 
+ 
+
+--- Page 10 ---
+BCA (AI/DS) V SEC ‘J2’  
+  
+Code Title Faculty 
+TBD501 Introduction to Machine Learning Mr. Priyansh Kumar 
+TBD502 Programming with ‘R’ Mr. Pratik Kumar 
+TBD503 Introduction to Software Engineering Dr. A. S. Shukla 
+ University Open Elective / General 
+Elective – 2  
+ Discipline-Specific Elective – 4  
+TBD521 Cryptography Dr. Ovais Bashir 
+TBD522 Introduction to Mobile Application 
+Development  Mr. SHUBHAM KUMAR 
+TBD504 Skills for Career Success – 3 MR. VIBHAKAR GHOSH 
+PBD501 Machine Learning Laboratory  Mr. Priyansh Kumar/ Mr. Prajjwal Kumar 
+PBD502 Programming with ‘R’ Laboratory Mr. Ravi Raushan 
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY       TBD522 
+NCR2 / 
+TBD521 
+NCR5 
+PBD501 
+Comprehensive viva 
+PBD501 
+AB GF 
+TUESDAY      TBD522 
+PARA B. 
+TBD503  
+NCR2 
+PBD502  Lab 6  
+WEDNESDAY
+  
+    TBD503 
+LT4 
+TBD502 
+NCR3 
+SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+TBD501 
+NCR6 
+ 
+THURSDAY      TBD504  
+  NCR4 
+TBD504  
+  NCR4 
+PBD501 
+Comprehensive viva 
+TBD522 
+ PARA B. 
+TBD521 
+LT2 
+TBD502 
+NCR3 
+FRIDAY        TBD521 
+CR1 
+ TBD502 
+LT4 
+TBD503 
+LT3 
+SATURDAY       TBD503 
+LT3 
+LIB TBD501 
+LT8 
+TBD501 
+LT8 
+ 
+MR. PRATIK KUMAR ( +91 8404941098)  
+ 
+
+--- Page 11 ---
+BCA (CS/CL) V SEC ‘I’  Para Medical Building CR 7/CR 8/CR 9  
+   
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY       TBL502 
+NCR4 
+TBL501 
+NCR5 
+TBL503 
+  NCR5 
+PBL501 LAB 6 
+TUESDAY      TBL521 
+PARA B. 
+PBL501 
+Comprehensive viva 
+TBL503 
+  NCR5 
+PBL502 LAB 6 
+WEDNESDAY
+  
+     TBL521 
+NCR2 
+TBL503 
+  NCR1 
+TBL502 
+ 
+TBL501 
+CR34 
+ 
+THURSDAY       TBL502 
+ 
+TBL521 
+PARA B. 
+ 
+TBL501 
+PARA. 
+SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+FRIDAY       TBL505 
+ 
+TBL505 
+ 
+ PBL502 
+Comprehensive viva 
+SATURDAY          
+Code Title Faculty 
+TBL501 Security and Privacy in Cloud Mr. OP Pal 
+TBL502 Web Application Security Mr. Arnav Kotiyal 
+TBL503 Introduction to Microcontrollers With BCA V D 
+TBL504 Discipline-Specific Elective – 4  
+ University Open Elective / General 
+Elective – 2  
+TBL521 Introduction to Blockchain and 
+Cryptocurrency Dr. Ovais Bashir 
+TBL505 Skills for Career Success – 3 MR. PURNENDU AGARWAL 
+PBL501 Security and Privacy in Cloud Laboratory Ms. Swati Pant 
+PBL502 Web Application Security Laboratory  Ms. Swati Pant 
+MS. SWATI PANT( +91 7500057411) 
+ 
+ 
+
+--- Page 12 ---
+BSc IT V  Para Medical Building CR 7/CR 8/CR 9  
+ 
+  
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  DAYS  
+MONDAY      TBI502 CAD501 
+ 
+TBI503 LIB TBI501 
+CR5 
+ 
+TUESDAY       LIB TBI502 TBI503 PBI502 
+Comprehensive viva 
+WEDNESDAY
+  
+     TBI503 
+NCR5 
+TBI501 
+CR1 
+ PBI502 AB GF 
+THURSDAY       LIB TBI502 
+ 
+CAD501 
+PARA B. 
+PBI501  PARAM 
+GF 
+FRIDAY     SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+TBI504 
+ 
+TBI504 
+ 
+CAD501 
+NCR5 
+TBI501 
+NCR2 
+ 
+SATURDAY         
+Code Title Faculty 
+TBI501 Android Programming  
+Mr. H. S. Negi 
+TBI502 Programming with C# .Net  Mohd. Shuaib 
+TBI503 Cryptography Ms. Swati Pant 
+ Multidisciplinary Course – 3 Open Elective 
+CAD501 Introduction to Machine Learning Dr. Vandana Rawat 
+TBI504 Skills for Career Success – 3 MR. PURNENDU 
+AGARWAL 
+PBI501 Android Programming Laboratory Mr. H. S. Negi/ Ms. Payal 
+Karki 
+PBI502 Programming with C# .Net Laboratory Mohd. Shuaib/ Mr. 
+Krishna Kumar 
+MS. SWATI PANT( +91 7500057411) 
+
+--- Page 13 ---
+BSc. CS V Para Medical Building CR 7/CR 8/CR 9  
+ 
+ 
+TIME  8.00 AM  
+8.55 AM  
+8.55 AM  
+9.50 AM  
+10.10 AM  
+11.05 AM  
+11.05AM
+12.00PM
+  
+12.00PM
+12.55PM
+  
+1.10PM  
+2.05PM  
+2.05PM 
+3.00PM  
+3.10PM 
+4.05PM  
+4.05PM  
+5.00PM  
+5.00PM  
+5.55PM  
+DAYS  
+MONDAY      TBS502 CAD501 
+ 
+LIB TBS503 
+NCR6 
+TBS501 
+CR5 
+ 
+TUESDAY       TBS504 TBS502 
+ 
+TBS503 
+ 
+  
+WEDNESDAY     PBS501 
+Comprehensive viva 
+TBS504 
+ 
+TBS501 
+CR1 
+TBS503 
+NCR6 
+PBS502 AB GF 
+THURSDAY       TBS504 
+ 
+TBS502 
+ 
+CAD501 
+PARA B. 
+PBS501 PARAM 
+GF 
+FRSDAY     PBS502 
+Comprehensive viva 
+TBS505 
+ 
+TBS505 
+ 
+CAD501 
+PARA B 
+TBS501 
+NCR2 
+ 
+SATURDAY         
+Code Title Faculty 
+TBS501 Android Programming  
+With BSc IT V 
+TBS502 Programming with C# .Net  
+With BSc IT V 
+TBS503 Formal Languages and Automata Theory 
+Ms. Afsar Jahan 
+TBS504 Cloud Computing 
+Mr. Vikash Kumar 
+ Multidisciplinary Course – 3 
+Open Elective 
+CAD501 Introduction to Machine Learning 
+Dr. Vandana Rawat 
+TBS505 Skills for Career Success – 3 
+MR. PURNENDU AGARWAL 
+PBS501 Android Programming Laboratory 
+Mr. H. S. Negi/ Ms. Payal Karki 
+PBS502 Programming with C# .Net Laboratory 
+With BSc IT V 
+MS. SWATI PANT( +91 7500057411) 
+& 
+MS. PAYAL KARKI ( +91 9193114289) 
+ 
+
+=== PDF: CC list\CC-LIST-ODD-2026.pdf ===
+--- Page 1 ---
+ 
+DEPARTMENT OF COMPUTER APPLICATION 
+CLASS COORDINATOR LIST( JUL-DEC 2026) 
+SEMESTER AND SECTION CLASS COORDINATOR’S NAME & CONTACT 
+NUMBER 
+BCA III G1 MS. SHIKHA THAKUR (+91 7895932396) &  MR. KRISHNA KUMAR ( +91 
+6201645675 ) 
+BCA III G2 DR. VARTIKA AGARWAL ( +91 7701994248 ) & MR. KRISHNA KUMAR ( 
++91 6201645675 ) 
+BCA III G3 MR. JAISHANKAR BHATT  (+91 8077915658 ) & MR.  RAVI RAUSHAN ( 
++91 7256049232 ) 
+BCA III G4 DR. VARTIKA AGARWAL ( +91 7701994248 ) & MS. SHRUTI BAHUGUNA 
+( +91 8191900644 ) 
+BCA III  A1 DR. VANDANA RAWAT ( +91 7055001712 ) & RASHMI KANYAL ( +91 
+6397154208 ) 
+BCA III A2 DR. VANDANA RAWAT ( +91 7055001712 ) & RASHMI KANYAL ( +91 
+6397154208 ) 
+BCA III A3 MS. SHRUTI SAINI ( +91 9897625839 ) & MR. SAURAV DEV ( +91 
+7409071343 )  
+BCA III A4 MS. GUNJAN MEHRA ( +91 7088316631 ) & MR. GAUTAM BADONI ( 
++91 8218100582 ) 
+BCA III A5 MR. UTSAV KUMAR ( +91 9576685689 )& MR.  PRAJJWAL KUMAR( +91 
+8538917091) 
+BCA III A6 MS. SHIKHA THAKUR (+91 7895932396) & MS. SHIWANI BHASKAR ( +91 
+8445159744 ) 
+BCA III Cyber MS. SWATI PANT( +91 7500057411) 
+BSC IT III MR. UTSAV KUMAR ( +91 9576685689 ) 
+BSC CS III MR. UTSAV KUMAR ( +91 9576685689 ) 
+  
+DEPARTMENT OF COMPUTER APPLICATION 
+CLASS COORDINATOR LIST( JUL-DEC 2026) 
+SEMESTER AND SECTION CLASS COORDINATOR’S NAME & CONTACT 
+NUMBER 
+BCA V A MR. HARENDRA NEGI (+91 8126475013 )& MR. RAUNAK KUMAR ( +91 
+9905552766 ) 
+BCA V B MR. HARENDRA NEGI (+91 8126475013 )& MR. RAUNAK KUMAR ( +91 
+9905552766 ) 
+BCA V C DR. BHAWNESH KUMAR (+91 9897680354 ) & MR. VIPLAW KUMAR 
+SINHA (  +91 9548962381 ) 
+BCA V D DR. BHAWNESH KUMAR (+91 9897680354 ) & MR. VIPLAW KUMAR 
+SINHA (  +91 9548962381 ) 
+BCA V E MR. PRIYANSH KUMAR ( +91 7500068057 ) & MR. PRATHAM SETIA(+91 
+63984 22621) 
+BCA V F MR. PRIYANSH KUMAR ( +91 7500068057 ) & MR. PRATHAM SETIA(+91 
+63984 22621) 
+BCA V G MR. PRATIK KUMAR ( +91 8404941098) &  MR. RAVI RAUSHAN ( +91 
+7256049232 ) 
+
+--- Page 2 ---
+BCA V H DR. ADITYA JOSHI(+91 9557004416 ) & MS. SHRUTI BAHUGUNA ( +91 
+8191900644 ) 
+BCA V I MS. SWATI PANT( +91 7500057411) 
+BCA V J1 DR. ADITYA JOSHI(+91 9557004416 ) 
+BCA V J2 MR. PRATIK KUMAR ( +91 8404941098) 
+BSC IT V MS. SWATI PANT( +91 7500057411) 
+BSC CS V MS. SWATI PANT( +91 7500057411) 
+ 
+DEPARTMENT OF COMPUTER APPLICATION 
+CLASS COORDINATOR LIST( JUL-DEC 2026) 
+SEMESTER AND SECTION CLASS COORDINATOR’S NAME &  CONTACT 
+NUMBER 
+MCA III G1 MR. GAGANDEEP SINGH (+91 9927035279 ) & MS. PAYAL KARKI ( +91 
+9193114289) 
+MCA III G2 MR. GAGANDEEP SINGH (+91 9927035279 ) & MS. PAYAL KARKI ( +91 
+9193114289) 
+MCA III G3 MR. VIKASH KUMAR ( +91 8678813350)& MS. DIVYA  ( +91 
+7668208965 ) 
+MCA III G4 MR. VIKASH KUMAR ( +91 8678813350) &  MS. DIVYA  ( +91 
+7668208965 ) 
+MCA III A1 DR. VARSHA MITTAL ( +91 9634435387 ) & MR. SAURAV DEV ( +91 
+7409071343 ) 
+ 
+ 
+DEPARTMENT OF COMPUTER APPLICATION 
+CLASS COORDINATOR LIST( JUL-DEC 2026) 
+SEMESTER AND SECTION CLASS COORDINATOR’S NAME &  CONTACT 
+NUMBER 
+BCA IV WI MS. GEETIKA SHARMA (+91  8171768899 
+BCA VII (AI/DS) MR. RAUNAK KUMAR ( +91 9905552766 ) 
+ 
+
+=== PDF: Mca Timetable\PG_I.pdf ===
+--- Page 1 ---
+ 
+MCA I SEC ‘G1’ LT3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY PMC103 LAB3 TMC104 TMC105 
+(SR) 
+TMC103 
+LT4 
+ TMC118 
+CR1 
+ Practice Lab  
+Ms. Saba Ali 
+( IBM LAB ) 
+TUESDAY TMC104 TMC102 TMC105 
+(AT)LT4 
+TMC105 
+(SR)NCR3 
+TMC101 
+NCR2 
+ TMC118 
+CR1 
+   
+WEDNESDAY TMC104 TMC102 LIB BMC101 TMC101 
+NCR4 
+TMC113 
+NCR5 
+   
+THURSDAY LIB PMC102 LAB3 (CN) TMC103 
+CR4  
+BMC101 TMC114 
+CR1/ 
+TMC113 
+NCR3 
+   
+FRIDAY PMC101 DL1 PMC102 LAB3  TMC103 
+CR5  
+TMC113 
+LT3 
+TMC101 
+NCR2 
+TMC118 
+NCR5 
+  
+SATURDAY  TMC102 LIB TMC114 
+NCR2 
+TMC114 
+NCR2 
+   
+Subject Code Subject Name Faculty 
+TMC101 Full Stack Development Dr. Pramod Mehra 
+TMC102 Computer Networks Dr. K. C. Purohit 
+TMC103 Programming and Problem-
+Solving Dr. Amit Kumar  
+TMC104 Advanced Operating Systems Dr. D. C. Dobhal 
+ Discipline-Specific Elective - I  
+TMC113 Cloud Computing Mr. Yogesh 
+TMC114 Internet of Things  Mr. J. Bhatt 
+TMC118 Python Programming Dr. Varsha Mittal 
+TMC105 Career Skills - I Mr. SAURABH RAWAT/   
+Mr. ANKIT TIRPHATI 
+BMC101 Introduction to Operating Systems Ms. Rashmi Kanyal 
+PMC101 Full Stack Web Development 
+Laboratory 
+Ms. Gunjan Mehra/ Mr. 
+Gautam Badoni/ Ms. 
+Saba Ali 
+PMC102 Advanced Operating Systems and 
+Computer Networks Laboratory 
+Mr. Nikhil Bisht, Mr. 
+Pratik Kumar 
+PMC103 Programming and Problem-
+Solving Laboratory 
+Mr. Viplaw Sinha/ Mr. 
+Amit Vikram 
+DR. AMIT KUMAR ( +91 8076137375 ) 
+ 
+
+--- Page 2 ---
+ 
+MCA I SEC ‘G2’ LT3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY LIB TMC104 TMC105 
+(SR) 
+TMC103 
+LT4 
+ TMC118 
+CR1 
+   
+TUESDAY TMC104 TMC102 TMC105 
+(AT)LT4 
+TMC105 
+(SR)NCR3 
+TMC101 
+NCR2 
+ TMC118 
+CR1 
+ Practice Lab  
+Mr. Savarjeet 
+( IBM LAB ) 
+WEDNESDAY TMC104 TMC102 PMC102 LAB3 (CN) BMC101 TMC101 
+NCR4 
+TMC113 
+NCR5 
+   
+THURSDAY PMC101 LAB3 LIB TMC103 
+CR4  
+BMC101 TMC114 
+CR1/ 
+TMC113 
+NCR3 
+   
+FRIDAY PMC103 LAB3 LIB TMC103 
+CR5  
+TMC113 
+LT3 
+TMC101 
+NCR2 
+TMC118 
+NCR5 
+  
+SATURDAY  TMC102 PMC102 LAB3 TMC114 
+NCR2 
+TMC114 
+NCR2 
+   
+Subject Code Subject Name Faculty 
+TMC101 Full Stack Web Development Dr. Pramod Mehra 
+TMC102 Computer Networks Dr. K. C. Purohit 
+TMC103 Programming and Problem-
+Solving Dr. Amit Kumar  
+TMC104 Advanced Operating Systems Dr. D. C. Dobhal 
+ Discipline-Specific Elective - I  
+TMC113 Cloud Computing Mr. Yogesh 
+TMC114 Internet of Things  Mr. J. Bhatt 
+TMC118 Python Programming Dr. Varsha Mittal 
+TMC105 Career Skills - I Mr. SAURABH RAWAT/   
+Mr. ANKIT TIRPHATI 
+BMC101 Introduction to Operating Systems Ms. Rashmi Kanyal 
+PMC101 Full Stack Web Development 
+Laboratory 
+Ms. Gunjan Mehra/ Mr. 
+Viplaw Sinha 
+PMC102 Advanced Operating Systems and 
+Computer Networks Laboratory 
+Mr. Nikhil Bisht, Mr. 
+Pratik Kumar 
+PMC103 Programming and Problem-
+Solving Laboratory Dr. Amit Kumar 
+MS. GUNJAN MEHRA ( +91 7088316631 ) 
+ 
+
+--- Page 3 ---
+ 
+MCA I SEC ‘G3’ LT3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY TMC104 TMC105 
+(SR) 
+LIB TMC105 
+(AT)NCR2 
+  TMC118 
+CR1 
+   
+TUESDAY PMC103 LAB3 LIB TMC103 PMC101  LAB3 TMC118 
+CR1 
+   
+WEDNESDAY PMC102 LAB3 TMC101 TMC105 
+(SR)  
+BMC101  TMC113 
+NCR5 
+ Practice Lab  
+Mr. Amit Kumar 
+( IBM LAB ) 
+THURSDAY TMC104 TMC102 TMC101 TMC103  BMC101 TMC114 
+CR1/ 
+TMC113 
+NCR3 
+   
+FRIDAY TMC104 TMC102 TMC101 
+NCR2 
+TMC103  TMC113 
+LT3 
+ TMC118 
+NCR5 
+  
+SATURDAY PMC102 LAB3 
+(CN) 
+TMC102 LIB TMC114 
+NCR2 
+TMC114 
+NCR2 
+   
+Subject Code Subject Name Faculty 
+TMC101 Full Stack Web Development Dr. Pramod Mehra 
+TMC102 Computer Networks Dr. K. C. Purohit 
+TMC103 Programming and Problem-
+Solving Dr. Amit Kumar  
+TMC104 Advanced Operating Systems Dr. D. C. Dobhal 
+ Discipline-Specific Elective - I  
+TMC113 Cloud Computing Mr. Yogesh 
+TMC114 Internet of Things  Mr. J. Bhatt 
+TMC118 Python Programming Dr. Varsha Mittal 
+TMC105 Career Skills - I Mr. SAURABH RAWAT/  
+Mr. ANKIT TIRPHATI 
+BMC101 Introduction to Operating Systems Ms. Rashmi Kanyal 
+PMC101 Full Stack Web Development 
+Laboratory 
+Ms. Gunjan Mehra/ Mr. 
+Viplaw Sinha 
+PMC102 Advanced Operating Systems and 
+Computer Networks Laboratory 
+Mr. Nikhil Bisht, Mr. 
+Pratik Kumar 
+PMC103 Programming and Problem-
+Solving Laboratory 
+Dr. Amit Kumar/ Mr. 
+Prajjwal kumar 
+MR. NIKHIL BISHT ( +91 7060433155 ) 
+ 
+
+--- Page 4 ---
+ 
+MCA I SEC ‘G4’ & GEHU ‘D2’      LT3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY TMC104 TMC105 
+(SR) 
+LIB TMC105 
+(AT)NCR2 
+ TMC118 
+CR1 
+   
+TUESDAY PMC103 LAB3 LIB TMC103 PMC101  LAB3 TMC118 
+CR1 
+   
+WEDNESDAY PMC102 LAB3 TMC101 TMC105 
+(SR) 
+BMC101  TMC113 
+NCR5 
+   
+THURSDAY TMC104 TMC102 TMC101 TMC103  BMC101 TMC114 
+CR1/ 
+TMC113 
+NCR3 
+ Practice Lab  
+Mr. Abhishek Janoti 
+( IBM LAB ) 
+FRIDAY TMC104 TMC102 TMC101 
+NCR2 
+TMC103  TMC113 
+LT3 
+ TMC118 
+NCR5 
+  
+SATURDAY PMC102 LAB3 
+(CN) 
+TMC102  TMC114 
+NCR2 
+TMC114 
+NCR2 
+   
+Subject Code Subject Name Faculty 
+TMC101 Full Stack Web Development Dr. Pramod Mehra 
+TMC102 Computer Networks Dr. K. C. Purohit 
+TMC103 Programming and Problem-
+Solving Dr. Amit Kumar  
+TMC104 Advanced Operating Systems Dr. D. C. Dobhal 
+ Discipline-Specific Elective - I  
+TMC113 Cloud Computing Mr. Yogesh 
+TMC114 Internet of Things  Mr. J. Bhatt 
+TMC118 Python Programming Dr. Varsha Mittal 
+TMC105 Career Skills - I Mr. SAURABH RAWAT/  
+Mr. ANKIT TIRPHATI 
+BMC101 Introduction to Operating Systems Ms. Rashmi Kanyal 
+PMC101 Full Stack Web Development 
+Laboratory 
+Ms. Gunjan Mehra/ Mr. 
+Viplaw Sinha 
+PMC102 Advanced Operating Systems and 
+Computer Networks Laboratory 
+Mr. Nikhil Bisht, Mr. 
+Pratik Kumar 
+PMC103 Programming and Problem-
+Solving Laboratory 
+Dr. Amit Kumar/ Mr. 
+Prajjwal kumar/ Mr. 
+Raunak Kumar 
+MR. NIKHIL BISHT ( +91 7060433155) 
+ 
+
+--- Page 5 ---
+ 
+ 
+MCA I SEC ‘A1’ AI/DS LT4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY LIB TMD101 TMD103 TMD106   PMD101 DL2   
+TUESDAY TMD105
+(SR) 
+TMD105
+(AT) 
+TMD102 
+LT3 
+TMD104 BMD102  BMD102 PMD103 DL2   
+WEDNESDAY TMD103 TMD101 TMD102 TMD104 TMD111 
+NCR2 
+BMD103 PMD102 DL2   
+THURSDAY TMD103 TMD106 TMD101 TMD105(
+SR) 
+TMD111 
+LT4 
+BMD103 TMD113 
+CR1 
+   
+FRIDAY TMD102 TMD106 LIB TMD104 
+NCR6 
+TMD111 
+NCR1 
+    
+SATURDAY LIB   TMD113 
+NCR2 
+TMD113 
+NCR2 
+   
+Subject Code Subject Name Faculty 
+TMD101 Probability and Statistics  Dr. Nupur Goyal 
+TMD102 Python Programming Dr. Upma Jain 
+TMD 103 Programming and Problem-
+Solving Dr. Amit Kumar  
+TMD104 Advanced Database 
+Management Systems Dr. Varsha Mittal 
+TMD106 Advanced Operating Systems Dr. D. C. Dobhal 
+ Discipline-Specific Elective - I  
+TMD111 Full Stack Web Development Dr. Pramod Mehra 
+TMD113 Internet of Things With MCA I 
+TMD105 Career Skills - I Mr. SAURABH RAWAT/  
+Mr. ANKIT TIRPHATI 
+BMD102 Introduction to DBMS Ms. Rashmi Kanyal 
+BMD103 Introduction to Operating Systems Ms. Rashmi Kanyal 
+PMD101 Python Programming Laboratory Mr. Krishna Kumar/ Ms. 
+Shivani Sharma 
+PMD102 Advanced DBMS Laboratory Ms. Divya/ Mr. Ravi 
+Raushan 
+PMD103  Programming and Problem-
+Solving Laboratory 
+Dr. Amit Kumar/ Mr. 
+Sarvjeet Singh 
+DR. VARSHA MITTAL ( +91 9634435387 ) 
+ 
+
+--- Page 6 ---
+ 
+ 
+MCA I SEC ‘A2’ AI/DS LT4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY LIB TMD101 TMD103 TMD106 PMD103 [G2] IBM 
+LAB  
+    
+TUESDAY TMD105
+(SR) 
+TMD105
+(AT) 
+TMD102 
+LT3 
+TMD104 BMD102  BMD102 PMD102 IBM LAB/ 
+PMD101 CAAD LAB 
+ 
+WEDNESDAY TMD103 TMD101 TMD102 TMD104 TMD111 
+NCR2 
+BMD103     
+THURSDAY TMD103 TMD106 TMD102 TMD105(
+SR) 
+TMD111 
+LT4 
+BMD103 TMD113 
+CR1 
+   
+FRIDAY TMD101 TMD106 PMD103 [G1] CAAD 
+LAB  
+TMD104 
+NCR6 
+TMD111 
+NCR1 
+    
+SATURDAY   TMD113 
+NCR2 
+TMD113 
+NCR2 
+   
+Subject Code Subject Name Faculty 
+TMD101 Probability and Statistics  Dr. Nupur Goyal 
+TMD102 Python Programming Dr. Upma Jain 
+TMD 103 Programming and Problem-
+Solving Dr. Amit Kumar  
+TMD104 Advanced Database 
+Management Systems Dr. Varsha Mittal 
+TMD106 Advanced Operating Systems Dr. D. C. Dobhal 
+ Discipline-Specific Elective - I  
+TMD111 Full Stack Web Development Dr. Pramod Mehra 
+TMD113 Internet of Things With MCA I 
+TMD105 Career Skills - I Mr. SAURABH RAWAT/  
+Mr. ANKIT TIRPHATI 
+BMD102 Introduction to DBMS Ms. Rashmi Kanyal 
+BMD103 Introduction to Operating Systems Ms. Rashmi Kanyal 
+PMD101 Python Programming Laboratory Ms. Shivani Sharma 
+PMD102 Advanced DBMS Laboratory Ms. Divya 
+PMD103  Programming and Problem-
+Solving Laboratory 
+Mr. Raunak Kumar/ Mr. 
+Prajjwal Kumar 
+DR. AMIT KUMAR ( +91 8076137375 ) 
+ 
+
+--- Page 7 ---
+ 
+MCA I SEC ‘A3’ & GEHU ‘D2’     AI/DS CR1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY TMD101 TMD102 TMD104  TMD105 
+(SR) 
+NCR5 
+TMD114 
+(D2) Para 
+BUILDING 
+TMD111 
+NCR6 
+   
+TUESDAY TMD101 TMD102 TMD111  TMD105 
+CR4 (VB) 
+BMD102  BMD102 TMD114 
+(D2) Para 
+BUILDIN
+G 
+   
+WEDNESDAY TMD101 TMD103 TMD104 TMD106  BMD103     
+THURSDAY TMD103 TMD104 TMD102 
+ 
+TMD106 
+ 
+ BMD103 TMD113 
+CR1 
+TMD111 
+NCR5 
+  
+FRIDAY PMD103 CAAD 
+LAB 
+TMD105 
+(SR) 
+TMD106 TMD114 
+(D2) Para 
+BUILDING 
+     
+SATURDAY PMD102 CAAD 
+LAB 
+TMD103  TMD113 
+NCR2 
+TMD113 
+NCR2 
+PMD101 CAAD 
+LAB 
+ 
+Subject Code Subject Name Faculty 
+TMD101 Probability and Statistics  Dr. Nupur Goyal 
+TMD102 Python Programming Mohd. Shuaib 
+TMD 103 Programming and Problem-
+Solving Mr. Gagandeep 
+TMD104 Advanced Database 
+Management Systems Dr. Varsha Mittal 
+TMD106 Advanced Operating Systems Mr. Pratik Kumar 
+ Discipline-Specific Elective - I  
+TMD111 Full Stack Web Development Mr. Anuj Rawat 
+TMD113 Internet of Things With MCA I 
+TMD114 System Design Mr. Pankaj 
+TMD105 Career Skills - I Mr. SAURABH RAWAT/    
+Mr. VIBHAKAR GHOSH 
+BMD102 Introduction to DBMS Ms. Rashmi Kanyal 
+BMD103 Introduction to Operating Systems Ms. Rashmi Kanyal 
+PMD101 Python Programming Laboratory Mohd. Shuaib/ Ms. 
+Shivani Sharma 
+PMD102 Advanced DBMS Laboratory Mr. Ravi Raushan/ Ms. 
+Shivani Sharma 
+PMD103  Programming and Problem-
+Solving Laboratory 
+Mr. Gagandeep/ Mr. 
+Amit Vikram 
+MR. GAGANDEEP SINGH( +91 9927035279 ) 
+ 
+
+--- Page 8 ---
+MSc.IT I  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY CAM101 TMI105 
+(SR) 
+ TMI105 
+(AT)NCR2 
+PMI102 IBM LAB     
+TUESDAY CAM101 LIB TMI101 TMI103 PMI101 LAB3     
+WEDNESDAY CAM101 LIB TMI101 TMI105 
+(SR) 
+     
+THURSDAY  TMI102 TMI101 TMI103      
+FRIDAY TMI104 
+CR1 
+TMI102 LIB TMI103       
+SATURDAY TMI104 
+CR4 
+TMI104 
+CR4 
+TMI102       
+Subject Code Subject Name Faculty 
+TMI101 Full Stack Web Development With MCA(G4) 
+TMI102 Computer Networks With MCA(G4) 
+TMI103 Programming and Problem-
+Solving With MCA(G4)  
+TMI104  Operating Systems Ms. Aayushi Rana 
+CAM101 Probability and Statistics  Dr. Nupur Goyal WITH 
+MCA(A3) 
+ Discipline-Specific Elective - I  
+TMI105 Career Skills - I With MCA(G4) 
+PMI101 Full Stack Web Development 
+Laboratory With MCA(G4) 
+PMI102 Programming and Problem-
+Solving Laboratory With MCA(A2) 
+MR. AAYUSHI RANA( +91 7409561192 ) 
+ 
+
+=== PDF: Mca Timetable\PG_III.pdf ===
+--- Page 1 ---
+MCA IIIrd SEC ‘G1’     LT-4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY    BMC301  TMC301 TMC312 
+ 
+LIB TMC302 
+ 
+TMC302 
+TUESDAY    BMC301 PMC301 
+Comprehensive viva 
+TMC304 TMC311 
+ 
+PMC 302  PARAM 
+GF 
+WEDNESD
+AY 
+   TMC312 
+NCR2 
+LIB TMC301 TMC304 TMC311 
+ 
+PMC 303  LAB3 
+THURSDA Y   SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+ TMC301  TMC312 
+NCR2 
+TMC302 
+NCR6 
+ 
+FRIDAY      TMC303 TMC303 LIB TMC311 
+LT3 
+ 
+SATURDA Y    PMC303 
+Comprehensive viva 
+TMC303  LIB PMC 301 NEW LAB1 
+Subject Code Subject Name Faculty 
+TMC301 Design and Analysis of Algorithms Dr. S. C. Dimri 
+TMC302 Mobile Application Development Mr. Kanishk Bhatt 
+TMC303 Advanced Java Programming Mr. Gagandeep Singh 
+ Discipline-Specific Elective - 3  
+TMC311 Machine Learning-2 Dr. Ashwini Kumar  
+TMC312 DevOps on cloud  Mr. Yogesh Lohumi 
+TMC304 Career Skills – III MR. PURNENDU AGARWAL 
+BMC301 Introduction to Object-Oriented Programming Ms. Rashmi Kanyal 
+MCP301 Mini Project –II /Research Seminar  
+PMC301 Design and Analysis of Algorithms Laboratory Mr. Shubham Kumar    
+PMC302 Mobile Application Development Laboratory Mr. Shubham Kumar 
+PMC303 Advanced Java Programming Laboratory Ms. Payal Karki 
+MR. GAGANDEEP SINGH (+91 9927035279 )  
+& 
+MS. PAYAL KARKI ( +91 9193114289) 
+
+--- Page 2 ---
+MCA IIIrd SEC ‘G2’        LT-4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY    BMC301  TMC301 TMC312 
+ 
+LIB TMC302 
+ 
+TMC302 
+TUESDAY    BMC301 PMC302 
+Comprehensive viva 
+TMC304 TMC311 PMC 303  LAB3 
+WEDNESD
+AY 
+   TMC312 
+NCR2 
+LIB TMC301 TMC304 TMC311 
+ 
+PMC 302  PARAM GF 
+THURSDA Y    PMC302 
+Comprehensive viva 
+TMC301  TMC312 
+NCR2 
+TMC302 
+NCR6 
+ 
+FRIDAY    PMC303 
+Comprehensive viva 
+TMC303 TMC303 LIB TMC311 
+LT3 
+ 
+SATURDA Y      TMC303 SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+PMC 301 AB FF 
+Subject Code Subject Name Faculty 
+TMC301 Design and Analysis of Algorithms Dr. S. C. Dimri 
+TMC302 Mobile Application Development Mr. Kanishk Bhatt 
+TMC303 Advanced Java Programming Mr. Gagandeep Singh 
+ Discipline-Specific Elective - 3  
+TMC311 Machine Learning-2 Dr. Ashwini Kumar  
+TMC312 DevOps on cloud  Mr. Yogesh Lohumi 
+TMC304 Career Skills – III MR. PURNENDU AGARWAL 
+BMC301 Introduction to Object-Oriented Programming Ms. Rashmi Kanyal 
+MCP301 Mini Project –II /Research Seminar  
+PMC301 Design and Analysis of Algorithms Laboratory Ms. Divya 
+PMC302 Mobile Application Development Laboratory Mr. Shubham Kumar 
+PMC303 Advanced Java Programming Laboratory Ms. Payal Karki 
+MR. GAGANDEEP SINGH (+91 9927035279 )  
+& 
+MS. PAYAL KARKI ( +91 9193114289) 
+ 
+
+--- Page 3 ---
+MCA IIIrd SEC ‘G3’      LT-3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY    BMC301 TMC311/  LIB TMC304 
+NCR3 
+TMC301 PMC302 
+Comprehensive viva 
+TUESDAY    BMC301 TMC311 
+LT4 
+TMC304 TMC312 
+ 
+TMC301 PMC303 
+Comprehensive viva 
+WEDNESD
+AY 
+    PMC301 IBM LAB LIB TMC301 TMC302 
+NCR4 
+TMC312 
+LT4 
+THURSDA Y     PMC301 
+Comprehensive viva 
+TMC303 LIB PMC302 NEW LAB1 
+FRIDAY     TMC311 
+LT4 
+TMC302 
+NCR4 
+TMC302 
+NCR4 
+TMC303 TMC312 
+NCR3 
+ 
+SATURDA Y    TMC303  SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+PMC303 LAB3 
+Subject Code Subject Name Faculty 
+TMC301 Design and Analysis of Algorithms Dr. S. C. Dimri 
+TMC302 Mobile Application Development Mr. Kanishk Bhatt 
+TMC303 Advanced Java Programming Mr. Gagandeep Singh 
+ Discipline-Specific Elective - 3  
+TMC311 Machine Learning-2 Dr. Abhishek Sharma  
+TMC312 DevOps on cloud  Mr. Yogesh Lohumi 
+TMC304 Career Skills – III MR. PURNENDU AGARWAL 
+BMC301 Introduction to Object-Oriented Programming Ms. Rashmi Kanyal 
+MCP301 Mini Project –II /Research Seminar  
+PMC301 Design and Analysis of Algorithms Laboratory Ms. Divya 
+PMC302 Mobile Application Development Laboratory Ms. Payal Karki/ Mr. Shubham 
+Kumar 
+PMC303 Advanced Java Programming Laboratory Ms. Payal Karki 
+MR. VIKASH KUMAR ( +91 8678813350) 
+&  
+MS. DIVYA  ( +91 7668208965 ) 
+  
+
+--- Page 4 ---
+ 
+MCA IIIrd SEC ‘G4’      LT-3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY    BMC301 TMC311  LIB TMC304 
+NCR3 
+TMC301 PMC302 PARAM GF 
+TUESDAY    BMC301 TMC311 
+LT4 
+TMC304 TMC312 
+ 
+TMC301 PMC301 
+Comprehensive viva 
+WEDNESD
+AY 
+    PMC302 
+Comprehensive viva 
+LIB TMC301 TMC302 
+NCR4 
+TMC312 
+LT4 
+THURSDA Y     PMC303 LAB3 TMC 303 LIB PMC303 
+Comprehensive viva 
+FRIDAY     TMC311 
+LT4 
+TMC302 
+NCR4 
+TMC302 
+NCR4 
+TMC303 TMC312 
+NCR3 
+ 
+SATURDA Y    TMC303  PMC301 LAB3 SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+Subject Code Subject Name Faculty 
+TMC301 Design and Analysis of Algorithms Dr. S. C. Dimri 
+TMC302 Mobile Application Development Mr. Kanishk Bhatt 
+TMC303 Advanced Java Programming Mr. Gagandeep Singh 
+ Discipline-Specific Elective - 3  
+TMC311 Machine Learning-2 Dr. Abhishek Sharma  
+TMC312 DevOps on cloud  Mr. Yogesh Lohumi 
+TMC304 Career Skills – III MR. PURNENDU AGARWAL 
+BMC301 Introduction to Object-Oriented Programming Ms. Rashmi Kanyal 
+MCP301 Mini Project –II /Research Seminar  
+PMC301 Design and Analysis of Algorithms Laboratory Ms. Divya 
+PMC302 Mobile Application Development Laboratory Ms. Payal Karki 
+PMC303 Advanced Java Programming Laboratory Ms. Payal Karki 
+MR. VIKASH KUMAR ( +91 8678813350) 
+&  
+MS. DIVYA  ( +91 7668208965 ) 
+ 
+
+--- Page 5 ---
+ 
+MCA IIIrd SEC ‘A1’       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY     TMD303 
+LT05 
+TMD305 
+NCR1 
+LIB TMD304 
+LT04 
+PMD301 LAB3 
+TUESDAY     TMD313 
+CR1 
+TMD302 
+LT04 
+PMD302 LAB3 TMD301 
+LT03 
+TMD303 
+LT04 
+WEDNESD
+AY 
+     TMD314 
+NCR1 
+TMD303 
+LT03 
+LIB TMD304 
+LT07 
+ 
+THURSDA Y    SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+TMD305 
+LT03 
+LIB TMD302 
+LT04 
+TMD301 
+LT03 
+TMD314 
+CR5 
+FRIDAY     TMD313 
+CR4 
+LIB TMD301 
+LT03 
+TMD302 
+LT04 
+ TMD314 
+CR5 
+SATURDA Y   PMD303 
+Comprehensive viva 
+PMD301 
+Comprehensive viva 
+TMD305 
+LT03 
+TMD313 
+LT9 
+PMD303 PARAM FF 
+Subject Code Subject Name Faculty 
+TMD301 Data Analytics and Visualization Dr. Varsha Mittal 
+TMD302 Machine Learning - I Dr. S. C. Dimri 
+TMD303 R Programming  Mr. Kanishk Bhatt 
+TMD305 Design and Analysis of Algorithms Dr. Hradesh 
+ Discipline-Specific Elective – 2  
+TMD313 Software Testing and Quality Assurance Dr. A. S. Shukla 
+TMD314 DevOps on Cloud Mr. Yogesh 
+TMD304 Career Skills – III MR. PURNENDU AGARWAL 
+MDP301 Mini Project /Research Seminar  
+PMD301 Design and Analysis of Algorithms Laboratory  Mr. Shubham Kumar    
+PMD302 Machine Learning - I Laboratory Mr. Priyansh Kumar/ Mr. Prajjwal 
+Kumar 
+PMD303 R Programming Laboratory Mr. Pratham 
+DR. VARSHA MITTAL ( +91 9634435387 ) 
+& 
+MR. SHUBHAM KUMAR ( +91 8873967322 ) 
+ 
+
+=== PDF: Mca Timetable\PG_III_D2.pdf ===
+--- Page 1 ---
+MCA IIIrd SEC ‘D2’ LT-3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY    BMC301 TMC311/  LIB TMC304 
+NCR3 
+TMC301 PMC302 
+Comprehensive viva 
+TUESDAY    BMC301 TMC311 
+LT4 
+TMC304 TMC312 
+ 
+TMC301 PMC303 
+Comprehensive viva 
+WEDNESD
+AY 
+    PMC301 IBM LAB LIB TMC301 TMC302 
+NCR4 
+TMC312 
+LT4 
+THURSDA Y     PMC301 
+Comprehensive viva 
+TMC303 LIB PMC302 NEW 
+LAB1 
+FRIDAY     TMC311 
+LT4 
+TMC302 
+NCR4 
+TMC302 
+NCR4 
+TMC303 TMC312 
+NCR3 
+ 
+SATURDA Y    TMC303  SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+PMC303 LAB3 
+Subject Code Subject Name Faculty 
+TMC301 Design and Analysis of Algorithms Dr. S. C. Dimri 
+TMC302 Mobile Application Development Mr. Kanishk Bhatt 
+TMC303 Advanced Java Programming Mr. Gagandeep Singh 
+ Discipline-Specific Elective - 3  
+TMC311 Machine Learning-2 Dr. Abhishek Sharma  
+TMC312 DevOps on cloud  Mr. Yogesh Lohumi 
+TMC304 Career Skills – III MR. PURNENDU AGARWAL 
+MCP301 Mini Project –II /Research Seminar  
+PMC301 Design and Analysis of Algorithms Laboratory  Ms. Divya 
+PMC302 Mobile Application Development Laboratory Ms. Payal Karki 
+PMC303 Advanced Java Programming Laboratory Ms. Payal Karki 
+MR. VIKASH KUMAR ( +91 8678813350) 
+&  
+MS. DIVYA  ( +91 7668208965 ) 
+  
+
+--- Page 2 ---
+MCA IIIrd SEC ‘D2’  AI/DS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME  8.00 AM 
+8.55 AM 
+8.55 AM 
+9.50 AM 
+10.10 AM 
+11.05 AM 
+11.05 AM 
+12.00PM 
+12.00PM 
+12.55PM 
+1.10PM- 
+2.05PM 
+2.05PM- 
+3.00PM 
+3.10PM- 
+4.05PM 
+4.05PM- 
+5.00PM 
+5.00PM- 
+5.55PM 
+DAYS  
+MONDAY     TMD303 
+LT05 
+TMD305 
+NCR1 
+LIB TMD304 
+LT04 
+PMD301 LAB3 
+TUESDAY     TMD313 
+CR1 
+TMD302 
+LT04 
+PMD302 LAB3 TMD301 
+LT03 
+TMD303 
+LT04 
+WEDNESD
+AY 
+     TMD314 
+NCR1 
+TMD303 
+LT03 
+LIB TMD304 
+LT07 
+ 
+THURSDA Y    SWAYAM/Trainin 
+g/Extra-Curricular 
+Activities/LIB 
+TMD305 
+LT03 
+LIB TMD302 
+LT04 
+TMD301 
+LT03 
+TMD314 
+CR5 
+FRIDAY     TMD313 
+CR4 
+LIB TMD301 
+LT03 
+TMD302 
+LT04 
+ TMD314 
+CR5 
+SATURDA Y   PMD303 
+Comprehensive viva 
+PMD301 
+Comprehensive viva 
+TMD305 
+LT03 
+TMD313 
+LT9 
+PMD303 PARAM GF 
+Subject Code Subject Name Faculty 
+TMD301 Data Analytics and Visualization Dr. Varsha Mittal 
+TMD302 Machine Learning - I Dr. S. C. Dimri 
+TMD303 R Programming  Mr. Kanishk Bhatt 
+TMD305 Design and Analysis of Algorithms Dr. Hradesh 
+ Discipline-Specific Elective – 2  
+TMD313 Software Testing and Quality Assurance Dr. A. S. Shukla 
+TMD314 DevOps on Cloud Mr. Yogesh 
+TMD304 Career Skills – III MR. PURNENDU AGARWAL 
+MDP301 Mini Project /Research Seminar  
+PMD301 Design and Analysis of Algorithms Laboratory   Mr. Shubham Kumar    
+PMD302 Machine Learning - I Laboratory Mr. Priyansh Kumar 
+PMD303 R Programming Laboratory Mr. Pratham 
+DR. VARSHA MITTAL ( +91 9634435387 ) 
+& 
+MR. SHUBHAM KUMAR ( +91 8873967322 ) 
+

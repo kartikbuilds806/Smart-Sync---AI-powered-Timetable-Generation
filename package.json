@@ -1,0 +1,17 @@
+{
+  "name": "timewise-pbl",
+  "version": "1.0.0",
+  "description": "SmartSync - College Timetable Management System",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 3000",
+    "dev": "npx http-server . -p 3000"
+  },
+  "keywords": [
+    "timetable",
+    "smartsync",
+    "academic"
+  ],
+  "author": "",
+  "license": "ISC"
+}

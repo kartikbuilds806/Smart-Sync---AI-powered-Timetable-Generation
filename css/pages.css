@@ -1,0 +1,215 @@
+/* SmartSync Page Specific Styles & Layouts */
+
+/* Hero Welcome Header Banner */
+.welcome-banner {
+  background: linear-gradient(135deg, #ffffff 0%, #f1f5f9 100%);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem 1.75rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+.welcome-banner::before {
+  content: '';
+  position: absolute;
+  top: -50px;
+  right: -50px;
+  width: 250px;
+  height: 250px;
+  background: radial-gradient(circle, rgba(59, 130, 246, 0.08) 0%, rgba(255, 255, 255, 0) 70%);
+  pointer-events: none;
+}
+
+.welcome-text h1 {
+  font-size: 1.65rem;
+  margin-bottom: 0.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.welcome-text p {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.welcome-date-pill {
+  background-color: #ffffff;
+  border: 1px solid var(--border-color);
+  padding: 0.6rem 1.15rem;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  box-shadow: var(--shadow-xs);
+}
+
+.welcome-date-pill .date-icon {
+  color: var(--primary-600);
+}
+
+.welcome-date-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.welcome-date-info strong {
+  font-size: 0.85rem;
+  color: var(--text-primary);
+  line-height: 1.1;
+}
+
+.welcome-date-info span {
+  font-size: 0.725rem;
+  color: var(--text-muted);
+}
+
+/* Quick Actions Container */
+.quick-actions-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 0.85rem;
+}
+
+.quick-action-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 1rem 0.75rem;
+  background-color: var(--surface-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  color: var(--text-primary);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  text-align: center;
+}
+
+.quick-action-btn:hover {
+  border-color: var(--primary-500);
+  background-color: var(--primary-50);
+  transform: translateY(-2px);
+  color: var(--primary-700);
+}
+
+.quick-action-icon {
+  width: 42px;
+  height: 42px;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Timetable Table Grid View */
+.timetable-grid-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 6px;
+  table-layout: fixed;
+}
+
+.timetable-grid-table th {
+  background-color: var(--surface-muted);
+  text-align: center;
+  padding: 0.75rem;
+  font-size: 0.825rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  border-radius: var(--radius-sm);
+}
+
+.timetable-grid-table th.time-col {
+  width: 110px;
+}
+
+.timetable-grid-table td {
+  background-color: #ffffff;
+  border: 1px solid var(--border-color-light);
+  border-radius: var(--radius-sm);
+  vertical-align: top;
+  padding: 0.4rem;
+  min-height: 80px;
+}
+
+.timetable-grid-table td.time-cell {
+  background-color: var(--surface-muted);
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Schedule Change Card (Old -> New) */
+.change-item-card {
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  margin-bottom: 0.85rem;
+  background-color: var(--surface-card);
+  transition: box-shadow var(--transition-fast);
+}
+
+.change-item-card:hover {
+  box-shadow: var(--shadow-sm);
+}
+
+.change-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.change-title {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--text-primary);
+}
+
+.change-body {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 0.65rem 0;
+  padding: 0.5rem 0.75rem;
+  background-color: var(--surface-muted);
+  border-radius: var(--radius-sm);
+  font-size: 0.8rem;
+}
+
+.change-old {
+  color: var(--danger-text);
+  text-decoration: line-through;
+  font-weight: 600;
+}
+
+.change-arrow {
+  color: var(--text-muted);
+  font-weight: bold;
+}
+
+.change-new {
+  color: var(--success-text);
+  font-weight: 700;
+}
+
+.change-footer {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

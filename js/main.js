@@ -27,8 +27,25 @@ window.loadView = async function(viewName, clickedElement = null) {
     clickedElement.classList.add('active');
   }
 
+  window.currentLoadedView = viewName;
   let html = '';
   switch (viewName) {
+    case 'timetable':
+    case 'master-timetable':
+      html = `
+        <div class="welcome-banner mb-4">
+          <div class="welcome-text">
+            <h1>Master Academic Timetable Visualizer</h1>
+            <p class="mb-0">Interactive weekly grid populated with real university schedules extracted from PDF course timetables.</p>
+          </div>
+        </div>
+        <div class="smart-card mb-4">
+          <div class="p-3" id="timetable-grid-mount-point">
+            ${await SmartViews.renderTimetableGrid(activeRole)}
+          </div>
+        </div>
+      `;
+      break;
     case 'dashboard':
       if (activeRole === 'teacher') {
         html = await SmartViews.renderTeacherDashboard();
@@ -114,23 +131,62 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function renderRoleSpecificView(role) {
   const data = window.SMARTSYNC_DATA || {};
-  const user = (data.users && data.users[role]) ? data.users[role] : { name: role === 'admin' ? 'Academic Administrator' : role === 'teacher' ? 'Dr. Bhawnesh Kumar' : 'Student', role: role, department: 'Computer Applications', avatarLetter: role.charAt(0).toUpperCase() };
+  let user = (data.users && data.users[role]) ? { ...data.users[role] } : { name: role === 'admin' ? 'Academic Administrator' : role === 'teacher' ? 'Dr. Bhawnesh Kumar' : 'Kartik Sharma', role: role, department: 'Computer Applications', avatarLetter: role.charAt(0).toUpperCase() };
+
+  // Sync with real authenticated profile if available
+  if (window.SmartAuth) {
+    const authUser = window.SmartAuth.getCurrentUser();
+    if (authUser && authUser.role === role) {
+      user.name = authUser.name || user.name;
+      user.email = authUser.email || user.email;
+      if (authUser.department) user.department = authUser.department;
+      if (authUser.designation) user.designation = authUser.designation;
+      if (authUser.section) user.section = authUser.section;
+      if (user.name) user.avatarLetter = user.name.charAt(0).toUpperCase();
+    }
+  }
 
   // Update Topbar User Profile Elements
   const userNameElem = document.getElementById('topbar-user-name');
   const userRoleElem = document.getElementById('topbar-user-role');
   const userAvatarElem = document.getElementById('topbar-user-avatar');
+  const userDropdownFullname = document.getElementById('user-dropdown-fullname');
+  const userDropdownEmail = document.getElementById('user-dropdown-email');
 
   if (userNameElem) userNameElem.textContent = user.name;
-  if (userRoleElem) userRoleElem.textContent = `${user.role.toUpperCase()} • ${user.department}`;
-  if (userAvatarElem) userAvatarElem.textContent = user.avatarLetter;
+  if (userRoleElem) userRoleElem.textContent = `${user.role.toUpperCase()} • ${user.department || 'Computer Applications'}`;
+  if (userAvatarElem) userAvatarElem.textContent = user.avatarLetter || user.name.charAt(0).toUpperCase();
+  if (userDropdownFullname) userDropdownFullname.textContent = user.name;
+  if (userDropdownEmail) userDropdownEmail.textContent = user.email || `${user.role}@gehu.ac.in`;
 
   // Render role-specific navigation menu items in sidebar
   renderSidebarNav(role);
 
+  // Refresh Topbar Notification Badge
+  if (window.updateNotificationBadge) {
+    window.updateNotificationBadge();
+  }
+
   // Load default view for active role
   await window.loadView('dashboard');
 }
+
+// User Profile Topbar Dropdown Toggle
+window.toggleUserMenu = function(event) {
+  if (event) event.stopPropagation();
+  const menu = document.getElementById('topbar-user-menu');
+  if (!menu) return;
+  const isHidden = menu.style.display === 'none' || menu.style.display === '';
+  menu.style.display = isHidden ? 'block' : 'none';
+  if (window.lucide) lucide.createIcons();
+};
+
+document.addEventListener('click', (e) => {
+  const menu = document.getElementById('topbar-user-menu');
+  if (menu && menu.style.display === 'block' && !e.target.closest('#topbar-user-pill') && !e.target.closest('#topbar-user-menu')) {
+    menu.style.display = 'none';
+  }
+});
 
 function renderSidebarNav(role) {
   const navContainer = document.getElementById('sidebar-nav-list');
@@ -152,6 +208,7 @@ function renderSidebarNav(role) {
       <a href="#" class="nav-item" onclick="window.loadView('rooms', this); return false;"><i data-lucide="building-2" class="nav-icon"></i> Rooms & Labs</a>
 
       <div class="nav-section-title">Scheduling Engine</div>
+      <a href="#" class="nav-item" onclick="window.loadView('timetable', this); return false;"><i data-lucide="calendar" class="nav-icon"></i> Master Timetable</a>
       <a href="#" class="nav-item" onclick="window.loadView('generator', this); return false;"><i data-lucide="wand-2" class="nav-icon"></i> Generate Timetable</a>
       <a href="#" class="nav-item" onclick="window.loadView('conflicts', this); return false;"><i data-lucide="alert-circle" class="nav-icon"></i> Conflicts</a>
       <a href="#" class="nav-item" onclick="window.loadView('versions', this); return false;"><i data-lucide="history" class="nav-icon"></i> Version History</a>
@@ -162,7 +219,7 @@ function renderSidebarNav(role) {
       <div class="nav-section-title">Faculty Portal</div>
       <a href="#" class="nav-item active" onclick="window.loadView('dashboard', this); return false;"><i data-lucide="layout-dashboard" class="nav-icon"></i> Dashboard</a>
       <a href="#" class="nav-item" onclick="window.loadView('my-timetable', this); return false;"><i data-lucide="calendar-days" class="nav-icon"></i> My Schedule</a>
-      <a href="#" class="nav-item" onclick="window.loadView('profile', this); return false;"><i data-lucide="user" class="nav-icon"></i> My Profile (teacher@geu.ac.in)</a>
+      <a href="#" class="nav-item" onclick="window.loadView('profile', this); return false;"><i data-lucide="user" class="nav-icon"></i> My Profile</a>
     `;
   } else if (role === 'student') {
     navHTML = `

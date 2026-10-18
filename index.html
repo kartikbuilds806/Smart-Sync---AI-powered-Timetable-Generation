@@ -18,12 +18,26 @@
   <script src="https://unpkg.com/lucide@latest"></script>
 
   <!-- SmartSync Core Stylesheets -->
-  <link rel="stylesheet" href="css/variables.css">
-  <link rel="stylesheet" href="css/base.css">
-  <link rel="stylesheet" href="css/layout.css">
-  <link rel="stylesheet" href="css/components.css">
-  <link rel="stylesheet" href="css/pages.css">
-  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/variables.css?v=3.6">
+  <link rel="stylesheet" href="css/base.css?v=3.6">
+  <link rel="stylesheet" href="css/layout.css?v=3.6">
+  <link rel="stylesheet" href="css/components.css?v=3.6">
+  <link rel="stylesheet" href="css/pages.css?v=3.6">
+  <link rel="stylesheet" href="css/responsive.css?v=3.6">
+
+  <!-- SmartSync Authentication Guard: Require Sign In / Sign Up Before Dashboard Access -->
+  <script>
+    (function() {
+      try {
+        var session = localStorage.getItem('smartsync_session_profile');
+        if (!session) {
+          window.location.replace('pages/login.html');
+        }
+      } catch (e) {
+        window.location.replace('pages/login.html');
+      }
+    })();
+  </script>
 </head>
 <body>
 
@@ -60,7 +74,7 @@
 
       <!-- Topbar Header -->
       <header class="app-topbar">
-        <div class="d-flex align-items-center gap-2">
+        <div class="topbar-left d-flex align-items-center gap-3">
           <!-- Mobile Hamburger Toggle Button -->
           <button id="topbar-sidebar-toggle-btn" class="topbar-hamburger-btn" aria-label="Toggle Menu Drawer">
             <i data-lucide="menu" style="width: 22px; height: 22px;"></i>
@@ -72,9 +86,9 @@
           </div>
         </div>
 
-        <div class="topbar-right d-flex align-items-center gap-2 ms-auto">
+        <div class="topbar-right d-flex align-items-center gap-3 ms-auto">
           <!-- Demo Role Switcher -->
-          <div class="d-flex align-items-center gap-2">
+          <div class="role-switcher-container">
             <select id="global-role-switcher" class="role-switcher-select" aria-label="Select Role Profile">
               <option value="admin">Admin Coordinator</option>
               <option value="teacher">Faculty / Teacher</option>
@@ -82,18 +96,36 @@
             </select>
           </div>
 
-          <!-- Notification Bell -->
-          <button class="topbar-icon-btn" aria-label="Notifications" title="View Notifications">
-            <i data-lucide="bell" style="width: 18px; height: 18px;"></i>
-            <span class="notification-badge-dot"></span>
-          </button>
+          <!-- Notification Bell & Dropdown Tray -->
+          <div class="topbar-notification-wrapper" id="topbar-notif-wrapper">
+            <button id="topbar-notification-btn" class="topbar-icon-btn" aria-label="Notifications" title="View Notifications" onclick="window.toggleNotificationTray(event)">
+              <i data-lucide="bell" style="width: 18px; height: 18px;"></i>
+              <span id="topbar-notification-badge" class="notification-badge-counter">4</span>
+            </button>
+            <div id="topbar-notification-dropdown" class="notification-dropdown-menu" style="display: none;">
+              <!-- Dynamically populated via window.renderNotificationTray() -->
+            </div>
+          </div>
 
-          <!-- User Profile Pill -->
-          <div class="user-profile-pill">
-            <div class="user-avatar" id="topbar-user-avatar">A</div>
-            <div class="user-info d-none d-xl-flex">
-              <span class="user-name" id="topbar-user-name">Admin Coordinator</span>
-              <span class="user-role" id="topbar-user-role">Academic Affairs</span>
+          <!-- User Profile Pill & Dropdown -->
+          <div class="user-profile-wrapper position-relative">
+            <div class="user-profile-pill" id="topbar-user-pill" onclick="window.toggleUserMenu(event)">
+              <div class="user-avatar" id="topbar-user-avatar">A</div>
+              <div class="user-info d-none d-lg-flex">
+                <span class="user-name" id="topbar-user-name">Admin Coordinator</span>
+                <span class="user-role" id="topbar-user-role">Academic Affairs</span>
+              </div>
+              <i data-lucide="chevron-down" style="width: 14px; height: 14px; color: #64748b; margin-left: 2px;"></i>
+            </div>
+            <div id="topbar-user-menu" class="user-dropdown-menu" style="display: none;">
+              <div class="user-dropdown-header">
+                <div class="fw-bold text-dark" id="user-dropdown-fullname">Academic Administrator</div>
+                <div class="small text-muted text-truncate" style="max-width: 180px;" id="user-dropdown-email">admin@gehu.edu.in</div>
+              </div>
+              <div class="dropdown-divider my-1"></div>
+              <a href="pages/login.html" class="user-dropdown-item text-danger d-flex align-items-center gap-2" onclick="event.preventDefault(); window.SmartAuth ? window.SmartAuth.logout() : window.location.href='pages/login.html';">
+                <i data-lucide="log-out" style="width: 15px; height: 15px;"></i> Sign Out
+              </a>
             </div>
           </div>
         </div>
@@ -111,10 +143,21 @@
   <!-- Bootstrap 5 JS Bundle -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
+  <!-- Supabase JS Client Library -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
   <!-- SmartSync Application Scripts -->
+  <script src="js/config.js"></script>
   <script src="data/real-dataset.js"></script>
+  <script src="data/timetable-data.js"></script>
+  <script src="js/services/authService.js"></script>
   <script src="js/services/dataService.js"></script>
+  <script src="js/services/timetableService.js"></script>
   <script src="js/utils.js"></script>
+  <script src="js/engine/constraintEngine.js"></script>
+  <script src="js/engine/conflictResolver.js"></script>
+  <script src="js/generatorWizard.js"></script>
+  <script src="js/crudModals.js"></script>
   <script src="js/views.js"></script>
   <script src="js/navigation.js"></script>
   <script src="js/main.js"></script>

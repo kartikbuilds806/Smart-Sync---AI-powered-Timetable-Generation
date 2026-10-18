@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SmartSync - Academic Login</title>
+  <title>SmartSync - Academic Authentication & Portal Login</title>
+  <meta name="description" content="Secure role-based login and registration for Students, Faculty, and Administrators powered by Supabase.">
   
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,258 +17,912 @@
   <!-- Lucide Icons -->
   <script src="https://unpkg.com/lucide@latest"></script>
 
+  <!-- Supabase JS Client Library -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
   <!-- SmartSync Core Stylesheets -->
-  <link rel="stylesheet" href="../css/variables.css">
-  <link rel="stylesheet" href="../css/base.css">
-  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/variables.css?v=3.6">
+  <link rel="stylesheet" href="../css/base.css?v=3.6">
+  <link rel="stylesheet" href="../css/components.css?v=3.6">
 
   <style>
     body {
-      background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+      background: radial-gradient(circle at 10% 20%, #1e293b 0%, #0f172a 90%);
       min-height: 100vh;
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 1.5rem;
+      padding: 1.5rem 1rem;
+      font-family: 'Plus Jakarta Sans', sans-serif;
     }
-    .login-card {
+
+    .auth-card {
       background-color: #ffffff;
-      border-radius: var(--radius-xl);
-      padding: 2.5rem;
+      border-radius: 20px;
+      padding: 2.25rem;
       width: 100%;
-      max-width: 480px;
-      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.1);
+      max-width: 520px;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      position: relative;
     }
-    .login-brand {
+
+    .auth-brand {
       display: flex;
       align-items: center;
       justify-content: center;
-      gap: 0.75rem;
+      gap: 0.85rem;
       margin-bottom: 1.5rem;
     }
-    .login-tabs {
+
+    .brand-logo-glow {
+      width: 44px;
+      height: 44px;
+      background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+      border-radius: 12px;
       display: flex;
-      background: var(--gray-100);
-      padding: 4px;
-      border-radius: var(--radius-md);
-      margin-bottom: 1.5rem;
+      align-items: center;
+      justify-content: center;
+      color: #ffffff;
+      box-shadow: 0 6px 16px rgba(37, 99, 235, 0.35);
     }
-    .login-tab-btn {
+
+    /* Primary Mode Tabs (Sign In vs Register) */
+    .mode-toggle-container {
+      display: flex;
+      background: #f1f5f9;
+      padding: 4px;
+      border-radius: 12px;
+      margin-bottom: 1.25rem;
+    }
+
+    .mode-toggle-btn {
       flex: 1;
-      padding: 0.5rem 0.75rem;
+      padding: 0.55rem 0.75rem;
       border: none;
       background: transparent;
-      font-size: 0.85rem;
-      font-weight: 600;
-      color: var(--text-muted);
-      border-radius: var(--radius-sm);
+      font-size: 0.875rem;
+      font-weight: 700;
+      color: #64748b;
+      border-radius: 9px;
       cursor: pointer;
-      transition: all var(--transition-fast);
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
     }
-    .login-tab-btn.active {
+
+    .mode-toggle-btn.active {
       background: #ffffff;
-      color: var(--primary-600);
-      box-shadow: 0 2px 4px rgba(0,0,0,0.06);
+      color: #1e293b;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     }
-    .role-demo-pill {
-      border: 1.5px solid var(--border-color);
-      border-radius: var(--radius-md);
-      padding: 0.65rem 0.85rem;
+
+    /* Role Selection Pills */
+    .role-pills-container {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 1.5rem;
+    }
+
+    .role-pill-btn {
+      flex: 1;
+      padding: 0.55rem 0.65rem;
+      border: 1.5px solid #e2e8f0;
+      background: #f8fafc;
+      border-radius: 10px;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: #475569;
       cursor: pointer;
-      transition: all var(--transition-fast);
+      transition: all 0.2s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 5px;
+    }
+
+    .role-pill-btn:hover {
+      background-color: #f1f5f9;
+      border-color: #cbd5e1;
+    }
+
+    .role-pill-btn.active {
+      border-color: #2563eb;
+      background-color: #eff6ff;
+      color: #1d4ed8;
+      font-weight: 700;
+      box-shadow: 0 2px 6px rgba(37, 99, 235, 0.15);
+    }
+
+    /* Form Fields Styling */
+    .form-label-custom {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: #334155;
+      margin-bottom: 0.35rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .input-group-custom {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+
+    .input-icon-left {
+      position: absolute;
+      left: 1rem;
+      color: #94a3b8;
+      pointer-events: none;
+      z-index: 5;
+    }
+
+    .input-custom {
+      width: 100%;
+      height: 44px;
+      padding: 0.5rem 1rem 0.5rem 2.65rem;
+      background: #f8fafc;
+      border: 1.5px solid #e2e8f0;
+      border-radius: 10px;
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: #0f172a;
+      transition: all 0.2s ease;
+    }
+
+    .input-custom:focus {
+      background: #ffffff;
+      border-color: #3b82f6;
+      box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+      outline: none;
+    }
+
+    .select-custom {
+      width: 100%;
+      height: 44px;
+      padding: 0.5rem 2.2rem 0.5rem 2.65rem;
+      background: #f8fafc url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2364748b' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E") no-repeat right 0.85rem center;
+      background-size: 13px;
+      border: 1.5px solid #e2e8f0;
+      border-radius: 10px;
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: #1e293b;
+      appearance: none;
+      -webkit-appearance: none;
+      cursor: pointer;
+    }
+
+    .select-custom:focus {
+      outline: none;
+      border-color: #3b82f6;
+      box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+      background-color: #ffffff;
+    }
+
+    /* Submit Button */
+    .btn-submit-auth {
+      width: 100%;
+      height: 46px;
+      background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+      color: #ffffff;
+      border: none;
+      border-radius: 10px;
+      font-size: 0.925rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      box-shadow: 0 4px 12px rgba(37, 99, 235, 0.25);
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+      margin-top: 1rem;
+    }
+
+    .btn-submit-auth:hover {
+      background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+      transform: translateY(-1px);
+      box-shadow: 0 6px 16px rgba(37, 99, 235, 0.35);
+    }
+
+    .btn-submit-auth:disabled {
+      opacity: 0.65;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    /* Demo Profile Pills */
+    .demo-pill-card {
+      border: 1.5px solid #e2e8f0;
+      border-radius: 10px;
+      padding: 0.6rem 0.85rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
       display: flex;
       align-items: center;
       gap: 0.75rem;
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.45rem;
+      background: #ffffff;
     }
-    .role-demo-pill:hover, .role-demo-pill.selected {
-      border-color: var(--primary-600);
-      background-color: var(--primary-50);
-    }
-    .help-note {
+
+    .demo-pill-card:hover {
+      border-color: #2563eb;
       background-color: #f8fafc;
-      border: 1px border #e2e8f0;
-      border-radius: var(--radius-md);
-      padding: 0.75rem;
-      font-size: 0.775rem;
-      color: var(--text-muted);
+      transform: translateX(2px);
+    }
+
+    .alert-custom {
+      padding: 0.75rem 1rem;
+      border-radius: 10px;
+      font-size: 0.825rem;
+      margin-bottom: 1.25rem;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      line-height: 1.4;
+    }
+
+    .alert-custom.success {
+      background-color: #ecfdf5;
+      border: 1px solid #a7f3d0;
+      color: #065f46;
+    }
+
+    .alert-custom.danger {
+      background-color: #fee2e2;
+      border: 1px solid #fca5a5;
+      color: #991b1b;
+    }
+
+    .alert-custom.warning {
+      background-color: #fffbeb;
+      border: 1px solid #fde68a;
+      color: #92400e;
+    }
+
+    .status-badge-live {
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 9999px;
+      background: #ecfdf5;
+      color: #059669;
+      border: 1px solid #a7f3d0;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
     }
   </style>
 </head>
 <body>
 
-  <div class="login-card">
-    <div class="login-brand">
-      <div class="brand-logo" style="width: 44px; height: 44px;">
-        <i data-lucide="graduation-cap" style="width: 26px; height: 26px;"></i>
+  <div class="auth-card">
+    
+    <!-- Brand Header -->
+    <div class="auth-brand">
+      <div class="brand-logo-glow">
+        <i data-lucide="graduation-cap" style="width: 24px; height: 24px;"></i>
       </div>
       <div>
-        <h2 style="margin: 0; font-size: 1.4rem; color: var(--text-primary);">SmartSync</h2>
-        <span style="font-size: 0.75rem; color: var(--text-muted);">College Timetable Management System</span>
+        <div class="d-flex align-items-center gap-2">
+          <h2 style="margin: 0; font-size: 1.35rem; font-weight: 800; color: #0f172a;">SmartSync</h2>
+          <span class="status-badge-live"><i data-lucide="database" style="width: 10px; height: 10px;"></i> Supabase Live</span>
+        </div>
+        <span style="font-size: 0.75rem; color: #64748b;">University Timetable & Resource Management</span>
       </div>
+    </div>
+
+    <!-- Alert / Feedback Notification Tray -->
+    <div id="auth-alert-box" style="display: none;"></div>
+
+    <!-- Mode Toggle: Sign In vs Create Account -->
+    <div class="mode-toggle-container">
+      <button class="mode-toggle-btn active" id="btn-mode-login" onclick="setAuthMode('login')">
+        <i data-lucide="log-in" style="width: 15px; height: 15px;"></i> Sign In
+      </button>
+      <button class="mode-toggle-btn" id="btn-mode-register" onclick="setAuthMode('register')">
+        <i data-lucide="user-plus" style="width: 15px; height: 15px;"></i> Create Account
+      </button>
     </div>
 
     <!-- Role Selection Tabs -->
-    <div class="login-tabs">
-      <button class="login-tab-btn active" id="tab-student" onclick="switchLoginTab('student')">
-        <i data-lucide="graduation-cap" style="width: 14px; height: 14px; margin-right: 4px;"></i> Student
+    <div class="role-pills-container">
+      <button class="role-pill-btn active" id="pill-student" onclick="setRole('student')">
+        <i data-lucide="graduation-cap" style="width: 14px; height: 14px;"></i> Student
       </button>
-      <button class="login-tab-btn" id="tab-teacher" onclick="switchLoginTab('teacher')">
-        <i data-lucide="user-check" style="width: 14px; height: 14px; margin-right: 4px;"></i> Teacher
+      <button class="role-pill-btn" id="pill-faculty" onclick="setRole('teacher')">
+        <i data-lucide="user-check" style="width: 14px; height: 14px;"></i> Faculty
       </button>
-      <button class="login-tab-btn" id="tab-admin" onclick="switchLoginTab('admin')">
-        <i data-lucide="shield-check" style="width: 14px; height: 14px; margin-right: 4px;"></i> Admin
+      <button class="role-pill-btn" id="pill-admin" onclick="setRole('admin')">
+        <i data-lucide="shield-check" style="width: 14px; height: 14px;"></i> Admin
       </button>
     </div>
 
-    <!-- Direct Credentials Login Form -->
-    <form id="smart-login-form" onsubmit="handleAcademicLogin(event)">
-      <div id="login-fields-container">
-        <!-- Student Form Fields (Default) -->
-        <div class="mb-3">
-          <label for="user-identifier" class="form-label font-weight-semibold small text-muted" id="label-identifier">8-Digit Student ID</label>
-          <div class="input-group">
-            <span class="input-group-text bg-light"><i data-lucide="user" style="width: 16px; height: 16px;"></i></span>
-            <input type="text" id="user-identifier" class="form-control" placeholder="e.g. 20261001" maxlength="8" required pattern="\d{8}">
-          </div>
-          <div class="form-text small" id="hint-identifier">Enter your 8-digit college Student ID</div>
-        </div>
-
-        <div class="mb-3">
-          <label for="user-password" class="form-label font-weight-semibold small text-muted">Password</label>
-          <div class="input-group">
-            <span class="input-group-text bg-light"><i data-lucide="lock" style="width: 16px; height: 16px;"></i></span>
-            <input type="password" id="user-password" class="form-control" placeholder="Default: Moodle@123" required>
-          </div>
-          <div class="form-text small">Default student password: <code>Moodle@123</code></div>
-        </div>
+    <!-- Dynamic Authentication Form -->
+    <form id="auth-main-form" onsubmit="handleAuthSubmit(event)">
+      <div id="dynamic-fields-container">
+        <!-- Rendered dynamically by script below based on Mode and Role -->
       </div>
 
-      <div class="d-flex align-items-center justify-content-between mb-4">
+      <!-- Remember Me & Forgot Password (Login Mode only) -->
+      <div id="login-aux-options" class="d-flex align-items-center justify-content-between my-3">
         <div class="form-check">
           <input type="checkbox" class="form-check-input" id="rememberMe" checked>
           <label class="form-check-label small text-muted" for="rememberMe">Remember me</label>
         </div>
-        <a href="#" class="small text-primary text-decoration-none" onclick="alert('Please contact Academic Affairs to reset your credentials.'); return false;">Forgot password?</a>
+        <a href="#" class="small text-primary text-decoration-none" onclick="showHelpModal(); return false;">Need help?</a>
       </div>
 
-      <button type="submit" class="btn-smart btn-smart-primary w-100 py-2.5 mb-3" style="font-size: 0.95rem; justify-content: center;">
-        <i data-lucide="log-in" style="width: 18px; height: 18px;"></i> Sign In to SmartSync
+      <!-- Action Submit Button -->
+      <button type="submit" class="btn-submit-auth" id="btn-auth-submit">
+        <i data-lucide="log-in" style="width: 17px; height: 17px;" id="submit-icon"></i>
+        <span id="submit-label">Sign In as Student</span>
       </button>
     </form>
 
     <hr class="my-3 text-muted" style="opacity: 0.15;">
 
-    <!-- Quick Demo Profiles Section -->
-    <div class="mb-2">
+    <!-- Quick One-Click Demo Profiles -->
+    <div>
       <div class="d-flex align-items-center justify-content-between mb-2">
-        <span class="small font-weight-bold text-uppercase text-muted" style="letter-spacing: 0.5px; font-size: 0.7rem;">Or One-Click Demo Login</span>
-      </div>
-      
-      <div class="role-demo-pill" onclick="quickFillRole('student', '20261001', 'Moodle@123')">
-        <div class="stat-icon green" style="width: 32px; height: 32px;"><i data-lucide="graduation-cap"></i></div>
-        <div class="flex-grow-1">
-          <strong class="d-block" style="font-size: 0.85rem;">Student (Kartik Sharma)</strong>
-          <span class="small text-muted">ID: 20261001 • Sec C</span>
-        </div>
-        <span class="badge bg-light text-dark small border">Demo</span>
+        <span style="font-size: 0.6875rem; text-transform: uppercase; font-weight: 800; color: #94a3b8; letter-spacing: 0.05em;">Or Quick Demo Evaluator Access</span>
       </div>
 
-      <div class="role-demo-pill" onclick="quickFillRole('teacher', 'teacher@geu.ac.in', 'Teacher@123')">
-        <div class="stat-icon orange" style="width: 32px; height: 32px;"><i data-lucide="user-check"></i></div>
-        <div class="flex-grow-1">
-          <strong class="d-block" style="font-size: 0.85rem;">Faculty (Mr. Bhawnesh Kumar)</strong>
-          <span class="small text-muted">teacher@geu.ac.in</span>
+      <div class="demo-pill-card" onclick="quickFillRole('student', '20261001', 'Moodle@123')">
+        <div style="width: 32px; height: 32px; border-radius: 8px; background: #ecfdf5; color: #047857; display: flex; align-items: center; justify-content: center;">
+          <i data-lucide="graduation-cap" style="width: 16px; height: 16px;"></i>
         </div>
-        <span class="badge bg-light text-dark small border">Demo</span>
+        <div class="flex-grow-1">
+          <strong style="font-size: 0.825rem; color: #0f172a; display: block;">Kartik Sharma (Student)</strong>
+          <span style="font-size: 0.725rem; color: #64748b;">ID: 20261001 • BCA III G1</span>
+        </div>
+        <span class="badge bg-light text-dark border" style="font-size: 0.65rem;">1-Click</span>
       </div>
 
-      <div class="role-demo-pill" onclick="quickFillRole('admin', 'admin@gehu.edu.in', 'Admin@123')">
-        <div class="stat-icon blue" style="width: 32px; height: 32px;"><i data-lucide="shield-check"></i></div>
-        <div class="flex-grow-1">
-          <strong class="d-block" style="font-size: 0.85rem;">Admin Coordinator</strong>
-          <span class="small text-muted">Academic Timetable Control</span>
+      <div class="demo-pill-card" onclick="quickFillRole('teacher', 'teacher@geu.ac.in', 'Teacher@123')">
+        <div style="width: 32px; height: 32px; border-radius: 8px; background: #fff7ed; color: #c2410c; display: flex; align-items: center; justify-content: center;">
+          <i data-lucide="user-check" style="width: 16px; height: 16px;"></i>
         </div>
-        <span class="badge bg-light text-dark small border">Demo</span>
+        <div class="flex-grow-1">
+          <strong style="font-size: 0.825rem; color: #0f172a; display: block;">Dr. Bhawnesh Kumar (Faculty)</strong>
+          <span style="font-size: 0.725rem; color: #64748b;">teacher@geu.ac.in</span>
+        </div>
+        <span class="badge bg-light text-dark border" style="font-size: 0.65rem;">1-Click</span>
+      </div>
+
+      <div class="demo-pill-card" onclick="quickFillRole('admin', 'admin@gehu.edu.in', 'Admin@123')">
+        <div style="width: 32px; height: 32px; border-radius: 8px; background: #eff6ff; color: #1d4ed8; display: flex; align-items: center; justify-content: center;">
+          <i data-lucide="shield-check" style="width: 16px; height: 16px;"></i>
+        </div>
+        <div class="flex-grow-1">
+          <strong style="font-size: 0.825rem; color: #0f172a; display: block;">Academic Administrator</strong>
+          <span style="font-size: 0.725rem; color: #64748b;">Timetable Coordinator</span>
+        </div>
+        <span class="badge bg-light text-dark border" style="font-size: 0.65rem;">1-Click</span>
       </div>
     </div>
   </div>
 
+  <!-- SmartSync Authentication Scripts -->
+  <script src="../js/config.js"></script>
   <script src="../data/mock-data.js"></script>
+  <script src="../data/real-dataset.js"></script>
   <script src="../js/utils.js"></script>
+  <script src="../js/services/authService.js"></script>
+
   <script>
-    let activeRole = 'student';
+    let currentMode = 'login';   // 'login' | 'register'
+    let currentRole = 'student'; // 'student' | 'teacher' | 'admin'
 
     document.addEventListener('DOMContentLoaded', () => {
+      renderFields();
       if (window.lucide) lucide.createIcons();
     });
 
-    function switchLoginTab(role) {
-      activeRole = role;
-      document.querySelectorAll('.login-tab-btn').forEach(btn => btn.classList.remove('active'));
-      document.getElementById(`tab-${role}`).classList.add('active');
+    function setAuthMode(mode) {
+      currentMode = mode;
+      document.getElementById('btn-mode-login').classList.toggle('active', mode === 'login');
+      document.getElementById('btn-mode-register').classList.toggle('active', mode === 'register');
+      document.getElementById('login-aux-options').style.display = mode === 'login' ? 'flex' : 'none';
+      clearAlert();
+      renderFields();
+    }
 
-      const idLabel = document.getElementById('label-identifier');
-      const idInput = document.getElementById('user-identifier');
-      const idHint = document.getElementById('hint-identifier');
-      const passInput = document.getElementById('user-password');
+    function setRole(role) {
+      currentRole = role;
+      document.getElementById('pill-student').classList.toggle('active', role === 'student');
+      document.getElementById('pill-faculty').classList.toggle('active', role === 'teacher');
+      document.getElementById('pill-admin').classList.toggle('active', role === 'admin');
+      clearAlert();
+      renderFields();
+    }
 
-      if (role === 'student') {
-        idLabel.textContent = '8-Digit Student ID';
-        idInput.placeholder = 'e.g. 20261001';
-        idInput.maxLength = 8;
-        idInput.pattern = '\\d{8}';
-        idInput.value = '20261001';
-        passInput.value = 'Moodle@123';
-        idHint.textContent = 'Enter your 8-digit college Student ID';
-      } else if (role === 'teacher') {
-        idLabel.textContent = 'Faculty Email / ID';
-        idInput.placeholder = 'e.g. teacher@geu.ac.in';
-        idInput.removeAttribute('maxLength');
-        idInput.removeAttribute('pattern');
-        idInput.value = 'teacher@geu.ac.in';
-        passInput.value = 'Teacher@123';
-        idHint.textContent = 'Use your official GEU/GEHU faculty email credentials';
-      } else if (role === 'admin') {
-        idLabel.textContent = 'Admin Email / ID';
-        idInput.placeholder = 'e.g. admin@gehu.edu.in';
-        idInput.removeAttribute('maxLength');
-        idInput.removeAttribute('pattern');
-        idInput.value = 'admin@gehu.edu.in';
-        passInput.value = 'Admin@123';
-        idHint.textContent = 'Use your Timetable Administrator credentials';
+    function showAlert(type, message) {
+      const box = document.getElementById('auth-alert-box');
+      box.className = `alert-custom ${type}`;
+      box.innerHTML = `
+        <i data-lucide="${type === 'success' ? 'check-circle-2' : type === 'warning' ? 'alert-triangle' : 'alert-circle'}" style="width: 18px; height: 18px; flex-shrink: 0; margin-top: 1px;"></i>
+        <div>${message}</div>
+      `;
+      box.style.display = 'flex';
+      if (window.lucide) lucide.createIcons();
+    }
+
+    function clearAlert() {
+      const box = document.getElementById('auth-alert-box');
+      box.style.display = 'none';
+      box.innerHTML = '';
+    }
+
+    function renderFields() {
+      const container = document.getElementById('dynamic-fields-container');
+      const submitLabel = document.getElementById('submit-label');
+      const submitIcon = document.getElementById('submit-icon');
+
+      const roleDisplay = currentRole === 'student' ? 'Student' : currentRole === 'teacher' ? 'Faculty' : 'Admin';
+
+      if (currentMode === 'login') {
+        submitLabel.textContent = `Sign In as ${roleDisplay}`;
+        submitIcon.setAttribute('data-lucide', 'log-in');
+
+        if (currentRole === 'student') {
+          container.innerHTML = `
+            <div class="mb-3">
+              <label class="form-label-custom">
+                <span>8-Digit Student ID</span>
+                <span class="badge bg-light text-muted border" style="font-size: 0.7rem;">Required</span>
+              </label>
+              <div class="input-group-custom">
+                <i data-lucide="user" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <input type="text" id="login-student-id" class="input-custom" placeholder="e.g. 20261001" maxlength="8" pattern="\\d{8}" required value="20261001">
+              </div>
+              <div class="form-text small" style="font-size: 0.75rem; color: #64748b;">Enter your 8-digit university issued Student ID.</div>
+            </div>
+
+            <div class="mb-3">
+              <label class="form-label-custom">
+                <span>Password</span>
+              </label>
+              <div class="input-group-custom">
+                <i data-lucide="lock" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <input type="password" id="login-password" class="input-custom" placeholder="••••••••" required value="Moodle@123">
+              </div>
+              <div class="form-text small" style="font-size: 0.75rem; color: #64748b;">Demo password: <code>Moodle@123</code></div>
+            </div>
+          `;
+        } else if (currentRole === 'teacher') {
+          container.innerHTML = `
+            <div class="mb-3">
+              <label class="form-label-custom">Faculty Email Address</label>
+              <div class="input-group-custom">
+                <i data-lucide="mail" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <input type="email" id="login-email" class="input-custom" placeholder="e.g. teacher@geu.ac.in" required value="teacher@geu.ac.in">
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label class="form-label-custom">Password</label>
+              <div class="input-group-custom">
+                <i data-lucide="lock" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <input type="password" id="login-password" class="input-custom" placeholder="••••••••" required value="Teacher@123">
+              </div>
+              <div class="form-text small" style="font-size: 0.75rem; color: #64748b;">Demo password: <code>Teacher@123</code></div>
+            </div>
+          `;
+        } else if (currentRole === 'admin') {
+          container.innerHTML = `
+            <div class="mb-3">
+              <label class="form-label-custom">Admin Email Address</label>
+              <div class="input-group-custom">
+                <i data-lucide="shield" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <input type="email" id="login-email" class="input-custom" placeholder="e.g. admin@gehu.edu.in" required value="admin@gehu.edu.in">
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label class="form-label-custom">Password</label>
+              <div class="input-group-custom">
+                <i data-lucide="lock" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <input type="password" id="login-password" class="input-custom" placeholder="••••••••" required value="Admin@123">
+              </div>
+              <div class="form-text small" style="font-size: 0.75rem; color: #64748b;">Demo password: <code>Admin@123</code></div>
+            </div>
+          `;
+        }
+      } else {
+        // Register Mode
+        submitLabel.textContent = `Register New ${roleDisplay} Account`;
+        submitIcon.setAttribute('data-lucide', 'user-plus');
+
+        if (currentRole === 'student') {
+          container.innerHTML = `
+            <div class="row g-2 mb-2">
+              <div class="col-sm-6">
+                <label class="form-label-custom">
+                  <span>8-Digit Student ID</span>
+                  <span class="badge bg-primary-subtle text-primary" style="font-size: 0.65rem;">8 Digits</span>
+                </label>
+                <div class="input-group-custom">
+                  <i data-lucide="hash" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <input type="text" id="reg-student-id" class="input-custom" placeholder="e.g. 20261099" maxlength="8" pattern="\\d{8}" required>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <label class="form-label-custom">Full Name</label>
+                <div class="input-group-custom">
+                  <i data-lucide="user" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <input type="text" id="reg-name" class="input-custom" placeholder="e.g. Aryan Rawat" required>
+                </div>
+              </div>
+            </div>
+
+            <div class="mb-2">
+              <label class="form-label-custom">Student Email Address</label>
+              <div class="input-group-custom">
+                <i data-lucide="mail" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <input type="email" id="reg-email" class="input-custom" placeholder="aryan.20261099@gehu.ac.in" required>
+              </div>
+            </div>
+
+            <div class="row g-2 mb-2">
+              <div class="col-sm-6">
+                <label class="form-label-custom">Course / Program</label>
+                <div class="input-group-custom">
+                  <i data-lucide="book-open" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <select id="reg-course" class="select-custom" required onchange="populateSectionDropdown()">
+                    <option value="BCA">BCA (Bachelor of Computer App)</option>
+                    <option value="MCA">MCA (Master of Computer App)</option>
+                    <option value="BSc(IT)">B.Sc IT (Information Technology)</option>
+                    <option value="BSc(CS)">B.Sc CS (Computer Science)</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <label class="form-label-custom">Academic Semester</label>
+                <div class="input-group-custom">
+                  <i data-lucide="calendar" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <select id="reg-semester" class="select-custom" required onchange="populateSectionDropdown()">
+                    <option value="1">Semester 1</option>
+                    <option value="2">Semester 2</option>
+                    <option value="3" selected>Semester 3</option>
+                    <option value="4">Semester 4</option>
+                    <option value="5">Semester 5</option>
+                    <option value="6">Semester 6</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+
+            <div class="mb-2">
+              <div class="d-flex justify-content-between align-items-center mb-1">
+                <label class="form-label-custom mb-0">Assigned Section</label>
+                <span class="badge bg-light text-muted border" id="reg-section-badge" style="font-size: 0.68rem;">Populating...</span>
+              </div>
+              <div class="input-group-custom">
+                <i data-lucide="users" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <select id="reg-section" class="select-custom" required>
+                  <!-- Dynamically populated from real-dataset sections -->
+                </select>
+              </div>
+            </div>
+
+            <div class="row g-2 mb-2">
+              <div class="col-sm-6">
+                <label class="form-label-custom">Password</label>
+                <div class="input-group-custom">
+                  <i data-lucide="lock" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <input type="password" id="reg-password" class="input-custom" placeholder="Min 6 chars" minlength="6" required>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <label class="form-label-custom">Confirm Password</label>
+                <div class="input-group-custom">
+                  <i data-lucide="check-circle" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <input type="password" id="reg-confirm-password" class="input-custom" placeholder="Re-type password" minlength="6" required>
+                </div>
+              </div>
+            </div>
+          `;
+        } else if (currentRole === 'teacher') {
+          container.innerHTML = `
+            <div class="mb-2">
+              <label class="form-label-custom">Faculty Full Name</label>
+              <div class="input-group-custom">
+                <i data-lucide="user" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <input type="text" id="reg-name" class="input-custom" placeholder="e.g. Dr. Ramesh Chander" required>
+              </div>
+            </div>
+
+            <div class="row g-2 mb-2">
+              <div class="col-sm-6">
+                <label class="form-label-custom">Faculty Email</label>
+                <div class="input-group-custom">
+                  <i data-lucide="mail" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <input type="email" id="reg-email" class="input-custom" placeholder="ramesh@geu.ac.in" required>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <label class="form-label-custom">Phone Number</label>
+                <div class="input-group-custom">
+                  <i data-lucide="phone" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <input type="tel" id="reg-phone" class="input-custom" placeholder="+91 9876543210" required>
+                </div>
+              </div>
+            </div>
+
+            <div class="mb-2">
+              <label class="form-label-custom">Academic Designation</label>
+              <div class="input-group-custom">
+                <i data-lucide="briefcase" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <select id="reg-designation" class="select-custom" required>
+                  <option value="Assistant Professor">Assistant Professor</option>
+                  <option value="Associate Professor">Associate Professor</option>
+                  <option value="Professor">Professor</option>
+                  <option value="Guest Faculty">Guest Faculty</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="row g-2 mb-2">
+              <div class="col-sm-6">
+                <label class="form-label-custom">Password</label>
+                <div class="input-group-custom">
+                  <i data-lucide="lock" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <input type="password" id="reg-password" class="input-custom" placeholder="Min 6 chars" minlength="6" required>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <label class="form-label-custom">Confirm Password</label>
+                <div class="input-group-custom">
+                  <i data-lucide="check-circle" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <input type="password" id="reg-confirm-password" class="input-custom" placeholder="Re-type password" minlength="6" required>
+                </div>
+              </div>
+            </div>
+          `;
+        } else if (currentRole === 'admin') {
+          container.innerHTML = `
+            <div class="mb-2">
+              <label class="form-label-custom">Admin Full Name</label>
+              <div class="input-group-custom">
+                <i data-lucide="user" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <input type="text" id="reg-name" class="input-custom" placeholder="e.g. Dean Academic Affairs" required>
+              </div>
+            </div>
+
+            <div class="mb-2">
+              <label class="form-label-custom">Official Administrator Email</label>
+              <div class="input-group-custom">
+                <i data-lucide="mail" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                <input type="email" id="reg-email" class="input-custom" placeholder="dean.academics@gehu.edu.in" required>
+              </div>
+            </div>
+
+            <div class="row g-2 mb-2">
+              <div class="col-sm-6">
+                <label class="form-label-custom">Password</label>
+                <div class="input-group-custom">
+                  <i data-lucide="lock" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <input type="password" id="reg-password" class="input-custom" placeholder="Min 6 chars" minlength="6" required>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <label class="form-label-custom">Confirm Password</label>
+                <div class="input-group-custom">
+                  <i data-lucide="check-circle" class="input-icon-left" style="width: 16px; height: 16px;"></i>
+                  <input type="password" id="reg-confirm-password" class="input-custom" placeholder="Re-type password" minlength="6" required>
+                </div>
+              </div>
+            </div>
+          `;
+        }
+      }
+
+      if (currentMode === 'register' && currentRole === 'student') {
+        populateSectionDropdown();
+      }
+
+      if (window.lucide) lucide.createIcons();
+    }
+
+    /**
+     * Dynamically populate the whole section list (40 active sections)
+     * Prioritizing matching Course and Semester
+     */
+    function populateSectionDropdown() {
+      const courseSelect = document.getElementById('reg-course');
+      const semesterSelect = document.getElementById('reg-semester');
+      const sectionSelect = document.getElementById('reg-section');
+      const sectionBadge = document.getElementById('reg-section-badge');
+      if (!sectionSelect || !courseSelect || !semesterSelect) return;
+
+      const selectedCourse = courseSelect.value;
+      const selectedSemester = parseInt(semesterSelect.value, 10);
+
+      const allSections = (window.SMARTSYNC_SECTIONS && window.SMARTSYNC_SECTIONS.length) ? window.SMARTSYNC_SECTIONS : [
+        { name: 'BCA III G1', courseCode: 'BCA', semester: 3, room: 'CR1', coordinator: 'Ms. Shikha Thakur' },
+        { name: 'BCA III G2', courseCode: 'BCA', semester: 3, room: 'CR4', coordinator: 'Dr. Vartika Agarwal' },
+        { name: 'BCA I G1', courseCode: 'BCA', semester: 1, room: 'NCR1', coordinator: 'Mrs. Geetika Sharma' },
+        { name: 'BCA I G2', courseCode: 'BCA', semester: 1, room: 'NCR6', coordinator: 'Mr. Abhishek Thapa' },
+        { name: 'MCA I SEC G1', courseCode: 'MCA', semester: 1, room: 'LT3', coordinator: 'Mr. Gagandeep Singh' },
+        { name: 'MCA IIIrd SEC G1', courseCode: 'MCA', semester: 3, room: 'LT-4', coordinator: 'Mr. Gagandeep Singh' }
+      ];
+
+      function isCourseMatch(c1, c2) {
+        if (!c1 || !c2) return false;
+        const norm = s => s.toLowerCase().replace(/[^a-z0-9]/g, '');
+        return norm(c1) === norm(c2);
+      }
+
+      const matchedSections = allSections.filter(s => isCourseMatch(s.courseCode, selectedCourse) && Number(s.semester) === selectedSemester);
+      const otherSameCourse = allSections.filter(s => isCourseMatch(s.courseCode, selectedCourse) && Number(s.semester) !== selectedSemester);
+      const otherPrograms = allSections.filter(s => !isCourseMatch(s.courseCode, selectedCourse));
+
+      let optionsHTML = '';
+
+      if (matchedSections.length > 0) {
+        optionsHTML += `<optgroup label="⭐ Matched for ${selectedCourse} Semester ${selectedSemester} (${matchedSections.length} Sections)">`;
+        matchedSections.forEach(s => {
+          const roomText = s.room ? ` • Room ${s.room}` : '';
+          const coordText = s.coordinator ? ` • ${s.coordinator}` : '';
+          optionsHTML += `<option value="${s.name}">${s.name}${roomText}${coordText}</option>`;
+        });
+        optionsHTML += `</optgroup>`;
+      }
+
+      if (otherSameCourse.length > 0) {
+        optionsHTML += `<optgroup label="Other ${selectedCourse} Sections (${otherSameCourse.length} Sections)">`;
+        otherSameCourse.forEach(s => {
+          const semText = s.semester ? ` (Sem ${s.semester})` : '';
+          optionsHTML += `<option value="${s.name}">${s.name}${semText}</option>`;
+        });
+        optionsHTML += `</optgroup>`;
+      }
+
+      if (otherPrograms.length > 0) {
+        optionsHTML += `<optgroup label="All Other University Sections (${otherPrograms.length} Sections)">`;
+        otherPrograms.forEach(s => {
+          optionsHTML += `<option value="${s.name}">${s.name} [${s.courseCode} Sem ${s.semester || 1}]</option>`;
+        });
+        optionsHTML += `</optgroup>`;
+      }
+
+      sectionSelect.innerHTML = optionsHTML;
+      if (sectionBadge) {
+        sectionBadge.textContent = matchedSections.length > 0 ? `${matchedSections.length} in Sem ${selectedSemester}` : `${allSections.length} available`;
       }
     }
 
-    function quickFillRole(role, id, pass) {
-      switchLoginTab(role);
-      document.getElementById('user-identifier').value = id;
-      document.getElementById('user-password').value = pass;
-    }
-
-    function handleAcademicLogin(event) {
+    async function handleAuthSubmit(event) {
       event.preventDefault();
-      const idVal = document.getElementById('user-identifier').value.trim();
-      const passVal = document.getElementById('user-password').value.trim();
+      clearAlert();
 
-      // Student 8-Digit ID validation check
-      if (activeRole === 'student') {
-        if (!/^\d{8}$/.test(idVal)) {
-          alert('Student ID must be exactly 8 digits (e.g. 20261001).');
-          return;
+      const btnSubmit = document.getElementById('btn-auth-submit');
+      const submitLabel = document.getElementById('submit-label');
+      const originalText = submitLabel.textContent;
+
+      btnSubmit.disabled = true;
+      submitLabel.textContent = 'Processing request with Supabase...';
+
+      try {
+        if (currentMode === 'login') {
+          if (currentRole === 'student') {
+            const studentId = document.getElementById('login-student-id').value.trim();
+            const password = document.getElementById('login-password').value.trim();
+            await window.SmartAuth.loginStudent(studentId, password);
+          } else if (currentRole === 'teacher') {
+            const email = document.getElementById('login-email').value.trim();
+            const password = document.getElementById('login-password').value.trim();
+            await window.SmartAuth.loginFaculty(email, password);
+          } else if (currentRole === 'admin') {
+            const email = document.getElementById('login-email').value.trim();
+            const password = document.getElementById('login-password').value.trim();
+            await window.SmartAuth.loginAdmin(email, password);
+          }
+
+          showAlert('success', 'Authentication successful! Redirecting to your academic workspace...');
+          setTimeout(() => {
+            window.location.href = '../index.html';
+          }, 800);
+
+        } else {
+          // Registration Mode
+          const pass = document.getElementById('reg-password').value;
+          const confirmPass = document.getElementById('reg-confirm-password').value;
+
+          if (pass !== confirmPass) {
+            throw new Error('Password and Confirm Password do not match.');
+          }
+
+          if (currentRole === 'student') {
+            const studentId = document.getElementById('reg-student-id').value.trim();
+            const name = document.getElementById('reg-name').value.trim();
+            const email = document.getElementById('reg-email').value.trim();
+            const course = document.getElementById('reg-course').value;
+            const semEl = document.getElementById('reg-semester');
+            const semester = semEl ? `Semester ${semEl.value}` : 'Semester 1';
+            const section = document.getElementById('reg-section').value;
+
+            const res = await window.SmartAuth.registerStudent({
+              studentId, name, email, course, semester, section, password: pass
+            });
+
+            showAlert('success', `Student account registered in Supabase! You can now sign in using your 8-digit Student ID: <strong>${studentId}</strong>`);
+            setTimeout(() => {
+              setAuthMode('login');
+              setRole('student');
+              document.getElementById('login-student-id').value = studentId;
+              document.getElementById('login-password').value = pass;
+            }, 1400);
+
+          } else if (currentRole === 'teacher') {
+            const name = document.getElementById('reg-name').value.trim();
+            const email = document.getElementById('reg-email').value.trim();
+            const phone = document.getElementById('reg-phone').value.trim();
+            const designation = document.getElementById('reg-designation').value;
+
+            const res = await window.SmartAuth.registerFaculty({
+              name, email, phone, designation, password: pass
+            });
+
+            showAlert('success', `Faculty account registered in Supabase! You can now sign in with your email: <strong>${email}</strong>`);
+            setTimeout(() => {
+              setAuthMode('login');
+              setRole('teacher');
+              document.getElementById('login-email').value = email;
+              document.getElementById('login-password').value = pass;
+            }, 1400);
+
+          } else if (currentRole === 'admin') {
+            const name = document.getElementById('reg-name').value.trim();
+            const email = document.getElementById('reg-email').value.trim();
+
+            const res = await window.SmartAuth.registerAdmin({
+              name, email, password: pass
+            });
+
+            showAlert('success', `Administrator account registered in Supabase! You can now sign in with your email: <strong>${email}</strong>`);
+            setTimeout(() => {
+              setAuthMode('login');
+              setRole('admin');
+              document.getElementById('login-email').value = email;
+              document.getElementById('login-password').value = pass;
+            }, 1400);
+          }
         }
-        if (passVal !== 'Moodle@123') {
-          alert('Incorrect password. Default student password is Moodle@123');
-          return;
-        }
+      } catch (err) {
+        console.error('Auth submit error:', err);
+        showAlert('danger', err.message || 'An unexpected error occurred during authentication.');
+      } finally {
+        btnSubmit.disabled = false;
+        submitLabel.textContent = originalText;
+        if (window.lucide) lucide.createIcons();
       }
+    }
 
-      // Save role & session state
-      localStorage.setItem('smartsync_active_role', activeRole);
-      localStorage.setItem('smartsync_logged_user', idVal);
+    function quickFillRole(role, identifier, password) {
+      setAuthMode('login');
+      setRole(role);
+      if (role === 'student') {
+        const idInput = document.getElementById('login-student-id');
+        const passInput = document.getElementById('login-password');
+        if (idInput) idInput.value = identifier;
+        if (passInput) passInput.value = password;
+      } else {
+        const emailInput = document.getElementById('login-email');
+        const passInput = document.getElementById('login-password');
+        if (emailInput) emailInput.value = identifier;
+        if (passInput) passInput.value = password;
+      }
+    }
 
-      // Redirect to main application dashboard
-      window.location.href = '../index.html';
+    function showHelpModal() {
+      alert('SmartSync Authentication Support:\n\n• Students: Log in using your 8-digit Student ID (e.g. 20261001) and registered password.\n• Faculty: Log in using your official faculty email.\n• Admin: Log in using academic coordinator credentials.\n\nAll credentials and user profiles are securely stored in your Supabase project database.');
     }
   </script>
 </body>
